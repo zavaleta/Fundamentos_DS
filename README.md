@@ -14,12 +14,12 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 ## Módulo 1:
 
-1.1	Reprodutibilidade em Pesquisa Computacional
-1.2	Introdução a Proveniência de Dados
-1.3	Gestão de Grandes Volumes de Dados de Pesquisa
-1.4	Ambiente de Programação: python 3, jupyter notebook, JupyterLab, Google Colab, DeepNote, pacotes e github
-1.5	Python I: tipos de dados, sequências e operações, estruturas de controle e repetição
-1.6	Prática dos conteúdos estudados: construindo e operando listas e strings
+- Reprodutibilidade em Pesquisa Computacional
+- Introdução a Proveniência de Dados
+- Gestão de Grandes Volumes de Dados de Pesquisa
+- Ambiente de Programação: python 3, jupyter notebook, JupyterLab, Google Colab, DeepNote, pacotes e github
+- Python I: tipos de dados, sequências e operações, estruturas de controle e repetição
+- Prática dos conteúdos estudados: construindo e operando listas e strings
 Aulas: [PDF]
 ## Módulo 2:
 
