@@ -20,38 +20,42 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 - Ambiente de Programação: python 3, jupyter notebook, JupyterLab, Google Colab, DeepNote, pacotes e github
 - Python I: tipos de dados, sequências e operações, estruturas de controle e repetição
 - Prática dos conteúdos estudados: construindo e operando listas e strings
-Aulas: [PDF]
+- Aulas: [PDF]
 ## Módulo 2:
 
 ### Semana 03
-2.1	Técnicas de coleta e preparação de dados
-2.2	Numpy I: array, slicing, fancy index, copy and view
-2.3	Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel)
-2.4	Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, Jason, rdf
+- Técnicas de coleta e preparação de dados
+- Numpy I: array, slicing, fancy index, copy and view
+- Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel)
+- Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, Jason, rdf
+- Aulas: [PDF]
 
 ## Módulo 3:
 
-3.1	Técnicas de análise de dados
-3.2	Numpy II e Matplotlib: operações com array, broadcasting, construção de gráficos usuais
-3.3	Pandas II: estatísticas básicas
-3.4	Prática dos conteúdos estudados: manipulando dados de saúde, ambiente, agricultura, cidades inteligentes
+- Técnicas de análise de dados
+- Numpy II e Matplotlib: operações com array, broadcasting, construção de gráficos usuais
+- Pandas II: estatísticas básicas
+- Prática dos conteúdos estudados: manipulando dados de saúde, ambiente, agricultura, cidades inteligentes
+- Aulas:[PDF]
 
 ## Módulo 4:
 
-4.1	Introdução a técnicas de modelagem de fluxo de dados
-4.2	Algoritmos e técnicas de extração inteligente de conhecimento
-4.3	Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA
-4.4	Prática dos conteúdos estudados: clusterização e predição
+- Introdução a técnicas de modelagem de fluxo de dados
+- Algoritmos e técnicas de extração inteligente de conhecimento
+- Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA
+- Prática dos conteúdos estudados: clusterização e predição
+- Aulas:[PDF]
 
 ## Módulo 5:
 
-5.1	Seminários sobre Ciência de Dados aplicados domínio específicos (e.g. Saúde, Educação, Sustentabilidade, Agricultura, Cidades Inteligentes, covid-19, entre outros)
-5.2	Apresentação de trabalhos – proposta de artigos
+- Seminários sobre Ciência de Dados aplicados domínio específicos (e.g. Saúde, Educação, Sustentabilidade, Agricultura, Cidades Inteligentes, covid-19, entre outros)
+- Apresentação de trabalhos – proposta de artigos
 
 ## FORMA DE AVALIAÇÃO
 
 Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em participação em sala de aula (P); exercícios e/ou protótipos desenvolvidos (E); apresentações/ /escritas de artigos (A).
-	MF = 0.3xP + 0.3xE + 0.4xA
+
+
 
 ## BIBLIOGRAFIA
 **Básica**
