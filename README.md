@@ -17,7 +17,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 - Reprodutibilidade em Pesquisa Computacional
 - Introdução a Proveniência de Dados
 - Gestão de Grandes Volumes de Dados de Pesquisa
-- Ambiente de Programação: python 3, jupyter notebook, JupyterLab, Google Colab, DeepNote, pacotes e github. PDF:[Teoria](imagens/Ambientes_de_programacao.pdf)
+- Ambiente de Programação: python 3, jupyter notebook, JupyterLab, Google Colab, DeepNote, pacotes e github. PDF:[Teoria](pdf/Ambientes_de_programacao.pdf)
 - Python I: tipos de dados, sequências e operações, estruturas de controle e repetição.
   Tipos de Dados em Python:[Tipos](FCD_M1_1_Tipos_de_dados.ipynb)
 - Prática dos conteúdos estudados: construindo e operando listas e strings.
