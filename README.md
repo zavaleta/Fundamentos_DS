@@ -14,8 +14,8 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 ## Módulo 1:
 
-- Reprodutibilidade em Pesquisa Computacional. [PDF](pdf/TESI_Modulo_1_P1.pdf)
-- Introdução a Proveniência de Dados
+- Reprodutibilidade em Pesquisa Computacional. [PDF-1](pdf/TESI_Modulo_1_P1.pdf)
+- Introdução a Proveniência de Dados.[PDF-2](pdf/TESI_Modulo_1_P2.pdf). [PDF-3](pdf/TESI_Modulo_1_P3.pdf)
 - Gestão de Grandes Volumes de Dados de Pesquisa
 - Ambiente de Programação: python 3, jupyter notebook, JupyterLab, Google Colab, DeepNote, pacotes e github. [PDF](pdf/Ambientes_de_programacao.pdf)
 - Python I: tipos de dados, sequências e operações, estruturas de controle e repetição.
