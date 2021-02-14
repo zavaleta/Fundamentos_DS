@@ -1,0 +1,22 @@
+@prefix govftp: <ftp://ftp.bls.gov/pub/special.requests/oes/> .
+@prefix is: <http://www.provbook.org/nownews/is/#> .
+@prefix now: <http://www.provbook.org/nownews/> .
+@prefix nowpeople: <http://www.provbook.org/nownews/people/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+now:employment-article-v1.html a prov:Entity ;
+    prov:wasAttributedTo nowpeople:Zavaleta ;
+    prov:wasDerivedFrom govftp:oesm11st.zip ;
+    prov:wasGeneratedBy is:writeArticle .
+
+is:writeArticle a prov:Activity ;
+    prov:used govftp:oesm11st.zip .
+
+nowpeople:Zavaleta a prov:Agent .
+
+govftp:oesm11st.zip a prov:Entity,
+        "void:Dataset"^^xsd:string ;
+    rdfs:label "employment-stats-2011"^^xsd:string .
+

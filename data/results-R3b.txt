@@ -1,0 +1,1 @@
+{'data': [-1, 0, 1, 0, -1, -2, -1, 0, -1, -2], 'seed': 1, 'myseed': 42, 'timestamp': '2021-02-14 20:49:27.437251', 'revision': b'', 'system': '3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]', 'agent': 'Sergio Serra'}
