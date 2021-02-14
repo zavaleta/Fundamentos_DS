@@ -14,7 +14,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 ## Módulo 1:
 
-- [Reprodutibilidade em Pesquisa Computacional](FCD_M1_0_Introducao.ipynb). [PDF-1](pdf/TESI_Modulo_1_P1.pdf)
+- [Reprodutibilidade em Pesquisa Computacional](FCD_M1_3_Reprodutibilidade.ipynb). [PDF-1](pdf/TESI_Modulo_1_P1.pdf)
 - [Introdução a Proveniência de Dados](FCD_M1_4_Provenance.ipynb). [PDF-2](pdf/TESI_Modulo_1_P2.pdf). [PDF-3](pdf/TESI_Modulo_1_P3.pdf)
 - Gestão de Grandes Volumes de Dados de Pesquisa
 - Ambiente de Programação: python 3, jupyter notebook, JupyterLab, Google Colab, DeepNote, pacotes e github. [PDF](pdf/Ambientes_de_programacao.pdf)
