@@ -14,12 +14,12 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 ## Módulo 1:
 
-| Aulas                        |        J. Notebook          |  PDF          |
+| Aulas                        |        Jupyter Notebook     |  PDF          |
 |:-----------------------------|:---------------------------:|:-------------:|
-|Reprodutibilidade em Pesquisa Computacional |  [Reprodutibilidade](FCD_M1_3_Reprodutibilidade.ipynb) |  [PDF-1](pdf/TESI_Modulo_1_P1.pdf) |
-|Introdução a Proveniência de Dados | [Proveniência](FCD_M1_4_Provenance.ipynb) |[PDF-2](pdf/TESI_Modulo_1_P2.pdf). [PDF-3](pdf/TESI_Modulo_1_P3.pdf) |
-|Gestão de Grandes Volumes de Dados de Pesquisa| Gestão | PDF|
-|Ambiente de Programação: python 3, jupyter notebook, JupyterLab, Google Colab, DeepNote, pacotes e github | Instalação Anaconda, Jupyter Notebook, Jupyterlab | [PDF](pdf/Ambientes_de_programacao.pdf) |
+|Reprodutibilidade em Pesquisa Computacional |  [Reprodutibilidade](FCD_M1_3_Reprodutibilidade.ipynb) |  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P1.pdf) |
+|Introdução a Proveniência de Dados | [Proveniência](FCD_M1_4_Provenance.ipynb) |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P2.pdf)  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P3.pdf) |
+|Gestão de Grandes Volumes de Dados de Pesquisa| Gestão | <img src="imagens/pdf1.png" alt="pdf" width="25"/>|
+|Ambiente de Programação: python 3, jupyter notebook, JupyterLab, Google Colab, DeepNote, pacotes e github | Instalação Anaconda, Jupyter Notebook, Jupyterlab | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/Ambientes_de_programacao.pdf) |
 |Python I: tipos de dados, sequências e operações, estruturas de controle e repetição | [Tipos de dados](FCD_M1_1_Tipos_de_dados.ipynb). [Estruturas de Controle](FCD_M1_2_Estruturas_de_controle.ipynb) | Exercícios em Jupyter/Colab/Deepnote|
 | Prática dos conteúdos estudados: construindo e operando listas e strings | Exercícios | Jupyter/ Colab/Deepnote|
 
@@ -28,42 +28,42 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 | Aulas                                 |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
-| Técnicas de coleta e preparação de dados |  []() | []() |
-| Numpy I: array, slicing, fancy index, copy and view | []()    | []() |
-| Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel) | []()|   []() |
-| Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, Jason, rdf| []()|[]()|
+| Técnicas de coleta e preparação de dados |  []() | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
+| Numpy I: array, slicing, fancy index, copy and view | []()    | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
+| Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel) | []()|   [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
+| Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, Jason, rdf| []()|[<img src="imagens/pdf1.png" alt="pdf" width="25"/>]()|
 
 
 ## Módulo 3:
 
 | Aulas                                 |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
-| Técnicas de análise de dados|  []()| []() |
-| Numpy II e Matplotlib: operações com array, broadcasting, construção de gráficos usuais |  []()| []() |
-| Pandas II: estatísticas básicas |  []()| []() |
-| Prática dos conteúdos estudados: manipulando dados de saúde, ambiente, agricultura, cidades inteligentes |  []()| []() |
+| Técnicas de análise de dados|  []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
+| Numpy II e Matplotlib: operações com array, broadcasting, construção de gráficos usuais |  []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
+| Pandas II: estatísticas básicas |  []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
+| Prática dos conteúdos estudados: manipulando dados de saúde, ambiente, agricultura, cidades inteligentes |  []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
 
 
 ## Módulo 4:
 
 |      Aulas                            |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
-| Introdução a técnicas de modelagem de fluxo de dados |   []()| []() |
-| Algoritmos e técnicas de extração inteligente de conhecimento |   []()| []() |
-| Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA |   []()| []() |
-| Prática dos conteúdos estudados: clusterização e predição |   []()| []() |
+| Introdução a técnicas de modelagem de fluxo de dados |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
+| Algoritmos e técnicas de extração inteligente de conhecimento |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
+| Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
+| Prática dos conteúdos estudados: clusterização e predição |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
 
 ## Módulo 5:
 
 | Aulas                                 |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
-| Seminários sobre Ciência de Dados aplicados domínio específicos (e.g. Saúde, Educação, Sustentabilidade, Agricultura, Cidades Inteligentes, covid-19, entre outros) |   []()| []() |
-| Apresentação de trabalhos – proposta de artigos|   []()| []() |
+| Seminários sobre Ciência de Dados aplicados domínio específicos (e.g. Saúde, Educação, Sustentabilidade, Agricultura, Cidades Inteligentes, covid-19, entre outros) |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
+| Apresentação de trabalhos – proposta de artigos|   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
 
 ## Material Adicional:
-1. Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions Fabien C. Y. Benureau and Nicolas P. Rougier. [PDF](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full)
-2. Provenance and the Different Flavors of Computational Reproducibility J. Freire and F. Chirigati In IEEE Data Engineering Bulletin, 41(1), pp. 15-26, 201. [PDF](http://sites.computer.org/debull/A18mar/p15.pdf)
-3. []()
+1. Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions Fabien C. Y. Benureau and Nicolas P. Rougier. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full)
+2. Provenance and the Different Flavors of Computational Reproducibility J. Freire and F. Chirigati In IEEE Data Engineering Bulletin, 41(1), pp. 15-26, 201. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](http://sites.computer.org/debull/A18mar/p15.pdf)
+3. Web Semãntica: Uma introdução. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Adiciona_Web_semantica.pdf)
 
 ## FORMA DE AVALIAÇÃO
 
