@@ -14,41 +14,56 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 ## Módulo 1:
 
-- [Reprodutibilidade em Pesquisa Computacional](FCD_M1_3_Reprodutibilidade.ipynb). [PDF-1](pdf/TESI_Modulo_1_P1.pdf)
-- [Introdução a Proveniência de Dados](FCD_M1_4_Provenance.ipynb). [PDF-2](pdf/TESI_Modulo_1_P2.pdf). [PDF-3](pdf/TESI_Modulo_1_P3.pdf)
-- Gestão de Grandes Volumes de Dados de Pesquisa
-- Ambiente de Programação: python 3, jupyter notebook, JupyterLab, Google Colab, DeepNote, pacotes e github. [PDF](pdf/Ambientes_de_programacao.pdf)
-- Python I: tipos de dados, sequências e operações, estruturas de controle e repetição. [Tipos de dados](FCD_M1_1_Tipos_de_dados.ipynb). [Estruturas de Controle](FCD_M1_2_Estruturas_de_controle.ipynb).
-- Prática dos conteúdos estudados: construindo e operando listas e strings.
+| Aulas                        |        J. Notebook          |  PDF          |
+|:-----------------------------|:---------------------------:|:-------------:|
+|Reprodutibilidade em Pesquisa Computacional |  [Reprodutibilidade](FCD_M1_3_Reprodutibilidade.ipynb) |  [PDF-1](pdf/TESI_Modulo_1_P1.pdf) |
+|Introdução a Proveniência de Dados | [Proveniência](FCD_M1_4_Provenance.ipynb) |[PDF-2](pdf/TESI_Modulo_1_P2.pdf). [PDF-3](pdf/TESI_Modulo_1_P3.pdf) |
+|Gestão de Grandes Volumes de Dados de Pesquisa| Gestão | PDF|
+|Ambiente de Programação: python 3, jupyter notebook, JupyterLab, Google Colab, DeepNote, pacotes e github | Instalação Anaconda, Jupyter Notebook, Jupyterlab | [PDF](pdf/Ambientes_de_programacao.pdf) |
+|Python I: tipos de dados, sequências e operações, estruturas de controle e repetição | [Tipos de dados](FCD_M1_1_Tipos_de_dados.ipynb). [Estruturas de Controle](FCD_M1_2_Estruturas_de_controle.ipynb) | Exercícios em Jupyter/Colab/Deepnote|
+| Prática dos conteúdos estudados: construindo e operando listas e strings | Exercícios | Jupyter/ Colab/Deepnote|
+
 
 ## Módulo 2:
 
-- Técnicas de coleta e preparação de dados
-- Numpy I: array, slicing, fancy index, copy and view
-- Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel)
-- Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, Jason, rdf
-- Aulas: [PDF]
+| Aulas                                 |      Jupyter Notebook               |  PDF         |
+|:--------------------------------------|:-----------------------------------:|:------------:|
+| Técnicas de coleta e preparação de dados |  []() | []() |
+| Numpy I: array, slicing, fancy index, copy and view | []()    | []() |
+| Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel) | []()|   []() |
+| Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, Jason, rdf| []()|[]()|
+
 
 ## Módulo 3:
 
-- Técnicas de análise de dados
-- Numpy II e Matplotlib: operações com array, broadcasting, construção de gráficos usuais
-- Pandas II: estatísticas básicas
-- Prática dos conteúdos estudados: manipulando dados de saúde, ambiente, agricultura, cidades inteligentes
-- Aulas:[PDF]
+| Aulas                                 |      Jupyter Notebook               |  PDF         |
+|:--------------------------------------|:-----------------------------------:|:------------:|
+| Técnicas de análise de dados|  []()| []() |
+| Numpy II e Matplotlib: operações com array, broadcasting, construção de gráficos usuais |  []()| []() |
+| Pandas II: estatísticas básicas |  []()| []() |
+| Prática dos conteúdos estudados: manipulando dados de saúde, ambiente, agricultura, cidades inteligentes |  []()| []() |
+
 
 ## Módulo 4:
 
-- Introdução a técnicas de modelagem de fluxo de dados
-- Algoritmos e técnicas de extração inteligente de conhecimento
-- Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA
-- Prática dos conteúdos estudados: clusterização e predição
-- Aulas:[PDF]
+|      Aulas                            |      Jupyter Notebook               |  PDF         |
+|:--------------------------------------|:-----------------------------------:|:------------:|
+| Introdução a técnicas de modelagem de fluxo de dados |   []()| []() |
+| Algoritmos e técnicas de extração inteligente de conhecimento |   []()| []() |
+| Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA |   []()| []() |
+| Prática dos conteúdos estudados: clusterização e predição |   []()| []() |
 
 ## Módulo 5:
 
-- Seminários sobre Ciência de Dados aplicados domínio específicos (e.g. Saúde, Educação, Sustentabilidade, Agricultura, Cidades Inteligentes, covid-19, entre outros)
-- Apresentação de trabalhos – proposta de artigos
+| Aulas                                 |      Jupyter Notebook               |  PDF         |
+|:--------------------------------------|:-----------------------------------:|:------------:|
+| Seminários sobre Ciência de Dados aplicados domínio específicos (e.g. Saúde, Educação, Sustentabilidade, Agricultura, Cidades Inteligentes, covid-19, entre outros) |   []()| []() |
+| Apresentação de trabalhos – proposta de artigos|   []()| []() |
+
+## Material Adicional:
+1. Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions Fabien C. Y. Benureau and Nicolas P. Rougier. [PDF](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full)
+2. Provenance and the Different Flavors of Computational Reproducibility J. Freire and F. Chirigati In IEEE Data Engineering Bulletin, 41(1), pp. 15-26, 201. [PDF](http://sites.computer.org/debull/A18mar/p15.pdf)
+3. []()
 
 ## FORMA DE AVALIAÇÃO
 
