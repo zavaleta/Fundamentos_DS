@@ -14,7 +14,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 ## Módulo 1:
 
-| Aulas                        |        Jupyter Notebook     |  PDF          |
+| Temas                        |        Jupyter Notebook     |  PDF          |
 |:-----------------------------|:---------------------------:|:-------------:|
 |Reprodutibilidade em Pesquisa Computacional |  [Reprodutibilidade](FCD_M1_3_Reprodutibilidade.ipynb) |  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P1.pdf) |
 |Introdução a Proveniência de Dados | [Proveniência](FCD_M1_4_Provenance.ipynb) |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P2.pdf)  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P3.pdf) |
@@ -26,7 +26,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 ## Módulo 2:
 
-| Aulas                                 |      Jupyter Notebook               |  PDF         |
+| Temas                                 |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
 | Técnicas de coleta e preparação de dados |  []() | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
 | Numpy I: array, slicing, fancy index, copy and view | []()    | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
@@ -36,7 +36,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 ## Módulo 3:
 
-| Aulas                                 |      Jupyter Notebook               |  PDF         |
+| Temas                                 |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
 | Técnicas de análise de dados|  []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
 | Numpy II e Matplotlib: operações com array, broadcasting, construção de gráficos usuais |  []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
@@ -46,7 +46,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 ## Módulo 4:
 
-|      Aulas                            |      Jupyter Notebook               |  PDF         |
+|      Temas                            |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
 | Introdução a técnicas de modelagem de fluxo de dados |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
 | Algoritmos e técnicas de extração inteligente de conhecimento |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
@@ -55,7 +55,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 ## Módulo 5:
 
-| Aulas                                 |      Jupyter Notebook               |  PDF         |
+| Temas                                 |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
 | Seminários sobre Ciência de Dados aplicados domínio específicos (e.g. Saúde, Educação, Sustentabilidade, Agricultura, Cidades Inteligentes, covid-19, entre outros) |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
 | Apresentação de trabalhos – proposta de artigos|   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
