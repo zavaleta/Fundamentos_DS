@@ -28,37 +28,37 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 | Temas                                 |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
-| Técnicas de coleta e preparação de dados |  []() | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
-| Numpy I: array, slicing, fancy index, copy and view | []()    | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
-| Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel) | []()|   [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
-| Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, Jason, rdf| []()|[<img src="imagens/pdf1.png" alt="pdf" width="25"/>]()|
+| Técnicas de coleta e preparação de dados |  []() | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+| Numpy I: array, slicing, fancy index, copy and view | [Numpy](FCD_M2_1_Numpy.ipynb)    | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+| Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel) | []()|   [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+| Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, Jason, rdf| []()|[<img src="imagens/pdf2.png" alt="pdf" width="25"/>]()|
 
 
 ## Módulo 3:
 
 | Temas                                 |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
-| Técnicas de análise de dados|  []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
-| Numpy II e Matplotlib: operações com array, broadcasting, construção de gráficos usuais |  []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
-| Pandas II: estatísticas básicas |  []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
-| Prática dos conteúdos estudados: manipulando dados de saúde, ambiente, agricultura, cidades inteligentes |  []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
+| Técnicas de análise de dados|  []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+| Numpy II e Matplotlib: operações com array, broadcasting, construção de gráficos usuais |  []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+| Pandas II: estatísticas básicas |  []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+| Prática dos conteúdos estudados: manipulando dados de saúde, ambiente, agricultura, cidades inteligentes |  []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
 
 
 ## Módulo 4:
 
 |      Temas                            |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
-| Introdução a técnicas de modelagem de fluxo de dados |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
-| Algoritmos e técnicas de extração inteligente de conhecimento |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
-| Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
-| Prática dos conteúdos estudados: clusterização e predição |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
+| Introdução a técnicas de modelagem de fluxo de dados |   []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+| Algoritmos e técnicas de extração inteligente de conhecimento |   []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+| Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA |   []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+| Prática dos conteúdos estudados: clusterização e predição |   []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
 
 ## Módulo 5:
 
 | Temas                                 |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
-| Seminários sobre Ciência de Dados aplicados domínio específicos (e.g. Saúde, Educação, Sustentabilidade, Agricultura, Cidades Inteligentes, covid-19, entre outros) |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
-| Apresentação de trabalhos – proposta de artigos|   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>]() |
+| Seminários sobre Ciência de Dados aplicados domínio específicos (e.g. Saúde, Educação, Sustentabilidade, Agricultura, Cidades Inteligentes, covid-19, entre outros) |   []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+| Apresentação de trabalhos – proposta de artigos|   []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
 
 ## Material Adicional:
 1. Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions Fabien C. Y. Benureau and Nicolas P. Rougier. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full)
