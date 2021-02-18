@@ -99,3 +99,5 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 
 1. The Open Science Training - Handbook https://book.fosteropenscience.eu/en/01Introduction/
 2. Recursos indicados em sala de aula
+---
+**Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021**
