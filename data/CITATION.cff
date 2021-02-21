@@ -1,0 +1,15 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "PPGI/UFRJ"
+    family-names: Serra
+    given-names: Sergio
+    orcid: "https://orcid.org/https://orcid.org/0000-0002-0792-8157"
+  -
+    family-names: Zavaleta
+    given-names: Jorge
+    orcid: "https://orcid.org/http://orcid.org/0000-0002-4747-8613"
+cff-version: "1.1.0"
+message: "Repository of Data science Fundamentals. Data Science. Provenance. Reproducibility. Curadory. Jupyter Notebook"
+...

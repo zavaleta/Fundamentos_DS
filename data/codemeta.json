@@ -1,0 +1,39 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/CC0-1.0",
+    "codeRepository": "https://github.com/zavaleta/Fundamentos_DS",
+    "dateCreated": "2021-02-20",
+    "datePublished": "2021-02-20",
+    "dateModified": "2021-02-20",
+    "name": "Repository of Data science Fundamentals",
+    "description": "Repository of Data science Fundamentals",
+    "programmingLanguage": [
+        "Python 3"
+    ],
+    "runtimePlatform": [
+        "Jupyter Notebook"
+    ],
+    "operatingSystem": [
+        "Windows 10"
+    ],
+    "softwareRequirements": [
+        "Python 3.8"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0002-0792-8157",
+            "givenName": "Sergio",
+            "familyName": "Serra",
+            "email": "serra@pet-si.ufrrj.br"
+        },
+        {
+            "@type": "Person",
+            "@id": "http://orcid.org/0000-0002-4747-8613",
+            "givenName": "Jorge",
+            "familyName": "Zavaleta",
+            "email": "zavaleta@pet-si.ufrrj.br"
+        }
+    ]
+}
