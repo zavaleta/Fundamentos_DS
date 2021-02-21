@@ -1,5 +1,6 @@
 ![PPGI_UFRJ](imagens/ppgi-ufrj.png)
 # Fundamentos de Ciência de Dados
+[![DOI](https://zenodo.org/badge/335308405.svg)](https://zenodo.org/badge/latestdoi/335308405)
 
 ## Professores:
 
