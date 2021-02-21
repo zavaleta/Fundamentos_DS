@@ -100,5 +100,19 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 
 1. The Open Science Training - Handbook https://book.fosteropenscience.eu/en/01Introduction/
 2. Recursos indicados em sala de aula
+
+### Cite as
+---
+>>@software{sergio_serra_2021_4553793,
+>>  author       = {Sergio Serra and Jorge Zavaleta},
+>  title        = {{zavaleta/Fundamentos\_DS: Repository of Data Science Fundamentals}},
+>  month        = feb,
+>  year         = 2021,
+>  publisher    = {Zenodo},
+ > version      = {fds},
+>  doi          = {10.5281/zenodo.4553793},
+>  url          = {https://doi.org/10.5281/zenodo.4553793}
+>>}
+
 ---
 **Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021**
