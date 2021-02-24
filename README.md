@@ -29,8 +29,8 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 | Temas                                 |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
-| Técnicas de coleta e preparação de dados |  []() | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
-| Numpy I: array, slicing, fancy index, copy and view | [Numpy](FCD_M2_1_Numpy.ipynb)    | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+| Técnicas de coleta e preparação de dados |  [WebScraping](FCD_M2_0_WebScraping.ipynb) | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_Modulo_2_1_webscraping.pdf) |
+| Numpy I: array, slicing, fancy index, copy and view | [Numpy](FCD_M2_1_Numpy.ipynb). [Numpy Avançado](FCD_M2_1_Numpy_avancado.ipynb)    | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
 | Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel) | []()|   [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
 | Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, Jason, rdf| []()|[<img src="imagens/pdf2.png" alt="pdf" width="25"/>]()|
 
