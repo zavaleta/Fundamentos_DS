@@ -19,7 +19,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 |:-----------------------------|:---------------------------:|:-------------:|
 |Reprodutibilidade em Pesquisa Computacional |  [Reprodutibilidade](FCD_M1_3_Reprodutibilidade.ipynb) |  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P1.pdf) |
 |Introdução a Proveniência de Dados | [Proveniência](FCD_M1_4_Provenance.ipynb) [Zenodo+Binder](FCD_M1_5_Zenodo_Binder.ipynb) |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P2.pdf)  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P3.pdf) [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_2_P1_DOM.pdf)|
-|Gestão de Grandes Volumes de Dados de Pesquisa| Gestão | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_2_P1_DOM.pdf)|
+|Gestão de Grandes Volumes de Dados de Pesquisa| Gestão | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS')|
 |Ambiente de Programação: python 3, jupyter notebook, JupyterLab, Google Colab, DeepNote, pacotes e github | Instalação Anaconda, Jupyter Notebook, Jupyterlab | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/Ambientes_de_programacao.pdf) |
 |Python I: tipos de dados, sequências e operações, estruturas de controle e repetição | [Tipos de dados](FCD_M1_1_Tipos_de_dados.ipynb). [Estruturas de Controle](FCD_M1_2_Estruturas_de_controle.ipynb) | Exercícios em Jupyter/Colab/Deepnote|
 | Prática dos conteúdos estudados: construindo e operando listas e strings | Exercícios | Jupyter/ Colab/Deepnote|
@@ -30,16 +30,16 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Temas                                 |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
 | Técnicas de coleta e preparação de dados |  [WebScraping](FCD_M2_0_WebScraping.ipynb) | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_Modulo_2_1_webscraping.pdf) |
-| Numpy I: array, slicing, fancy index, copy and view | [Numpy](FCD_M2_1_Numpy.ipynb). [Numpy Avançado](FCD_M2_1_Numpy_avancado.ipynb)    | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
-| Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel) | []()|   [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
-| Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, Jason, rdf| []()|[<img src="imagens/pdf2.png" alt="pdf" width="25"/>]()|
+| Numpy I: array, slicing, fancy index, copy and view | [Numpy](FCD_M2_1_Numpy.ipynb). [Numpy Avançado](FCD_M2_1_Numpy_avancado.ipynb)    | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS') |
+| Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel) | []()|   [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS') |
+| Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, Jason, rdf| []()|[<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS')|
 
 
 ## Módulo 3:
 
 | Temas                                 |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
-| Técnicas de análise de dados|  []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+| Técnicas de análise de dados|  []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS') |
 | Numpy II e Matplotlib: operações com array, broadcasting, construção de gráficos usuais |  []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
 | Pandas II: estatísticas básicas |  []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
 | Prática dos conteúdos estudados: manipulando dados de saúde, ambiente, agricultura, cidades inteligentes |  []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
