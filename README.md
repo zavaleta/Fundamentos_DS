@@ -31,7 +31,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 |:--------------------------------------|:-----------------------------------:|:------------:|
 | Técnicas de coleta e preparação de dados |  [WebScraping](FCD_M2_0_WebScraping.ipynb) | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_Modulo_2_1_webscraping.pdf) |
 | Numpy I: array, slicing, fancy index, copy and view | [Numpy](FCD_M2_1_Numpy.ipynb). [Numpy Avançado](FCD_M2_1_Numpy_avancado.ipynb)    | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS') |
-| Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel) | [Pandas](FCD_M2_2_Pandas.ipynd)|   [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS') |
+| Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel) | [Pandas](FCD_M2_2_Pandas.ipynb)|   [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS') |
 | Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, Jason, rdf| []()|[<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS')|
 
 
