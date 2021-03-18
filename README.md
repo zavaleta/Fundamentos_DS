@@ -41,7 +41,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 |:--------------------------------------|:-----------------------------------:|:------------:|
 | Técnicas de análise de dados|  []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS') |
 | Numpy II e Matplotlib: operações com array, broadcasting, construção de gráficos usuais |  [Gráficos Estáticos](FCD_M3_1_Graficos_simples.ipynb)| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
-| Pandas II: estatísticas básicas |  []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+| Pandas II: estatísticas básicas |  [Gráficos Avançados](FCD_M3_2_Graficos_avancados.ipynb)| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
 | Prática dos conteúdos estudados: manipulando dados de saúde, ambiente, agricultura, cidades inteligentes |  []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
 
 
