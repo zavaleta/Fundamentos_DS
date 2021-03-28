@@ -103,16 +103,7 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 
 ### Cite as
 ---
-
->@software{serra2021,
-  author       = {Sergio Serra and Jorge Zavaleta},
-  title        = {{zavaleta/Fundamentos\_DS: Repository of Data Science Fundamentals}},
-  month        = feb,
-  year         = 2021,
-  publisher    = {Zenodo},
-  version      = {fds},
-  doi          = {10.5281/zenodo.4553793},
-  url          = {https://doi.org/10.5281/zenodo.4553793}}
+>Sergio Serra, & Jorge Zavaleta. (2021, February 21). zavaleta/Fundamentos_DS: Repository of Data science Fundamentals (Version fds). Zenodo. http://doi.org/10.5281/zenodo.4553793
 
 ---
 **Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021**
