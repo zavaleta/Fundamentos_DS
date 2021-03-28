@@ -112,7 +112,5 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
  > version      = {fds},
 >  doi          = {10.5281/zenodo.4553793},
 >  url          = {https://doi.org/10.5281/zenodo.4553793}
->>}
-
 ---
 **Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021**
