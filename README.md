@@ -104,7 +104,7 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 ### Cite as
 ---
 
->@software{sergio_serra_2021_4553793,
+>@software{serra2021,
   author       = {Sergio Serra and Jorge Zavaleta},
   title        = {{zavaleta/Fundamentos\_DS: Repository of Data Science Fundamentals}},
   month        = feb,
