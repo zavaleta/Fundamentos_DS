@@ -52,7 +52,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Introdução a técnicas de modelagem de fluxo de dados |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_0_Workflow.pdf) |
 | Algoritmos e técnicas de extração inteligente de conhecimento |   []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
 | Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA |   [Machine Learning](FCD_M4_1_Machine_Learning.ipynb)| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_1_Machine_learning.pdf) |
-| Prática dos conteúdos estudados: clusterização e predição |  [Machine Learning](FCD_M4_1_Machine_Learning.ipynb)| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_1_Machine_learning.pdf) |
+| Prática dos conteúdos estudados: clusterização e predição |  [TensorFlow e Keras](FCD_M4_2_ML_aplicacoes.ipynb)| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
 
 ## Módulo 5:
 
