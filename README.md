@@ -18,7 +18,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Temas                        |        Jupyter Notebook     |  PDF          |
 |:-----------------------------|:---------------------------:|:-------------:|
 |Reprodutibilidade em Pesquisa Computacional |  [Reprodutibilidade](FCD_M1_3_Reprodutibilidade.ipynb) |  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P1.pdf) |
-|Introdução a Proveniência de Dados | [Proveniência](FCD_M1_4_Provenance.ipynb) [Zenodo+Binder](FCD_M1_5_Zenodo_Binder.ipynb) |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P2.pdf)  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P3.pdf) [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_2_P1_DOM.pdf)|
+|Introdução a Proveniência de Dados | [Proveniência](FCD_M1_4_Provenance.ipynb) |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P2.pdf)  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P3.pdf) [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_2_P1_DOM.pdf)|
 |Gestão de Grandes Volumes de Dados de Pesquisa| Gestão | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](FCD_not_found.ipynb)|
 |Ambiente de Programação: python 3, jupyter notebook, JupyterLab, Google Colab, DeepNote, pacotes e github | Instalação Anaconda, Jupyter Notebook, Jupyterlab | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/Ambientes_de_programacao.pdf) |
 |Python I: tipos de dados, sequências e operações, estruturas de controle e repetição | [Tipos de dados](FCD_M1_1_Tipos_de_dados.ipynb). [Estruturas de Controle](FCD_M1_2_Estruturas_de_controle.ipynb) | Exercícios em Jupyter/Colab/Deepnote|
@@ -49,7 +49,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 |      Temas                            |      Jupyter Notebook               |  PDF         |
 |:--------------------------------------|:-----------------------------------:|:------------:|
-| Introdução a técnicas de modelagem de fluxo de dados |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_0_Workflow.pdf) |
+| Introdução a técnicas de modelagem de fluxo de dados |   [Zenodo+Binder](FCD_M1_5_Zenodo_Binder.ipynb)| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_0_Workflow.pdf) |
 | Algoritmos e técnicas de extração inteligente de conhecimento |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_1_P2.pdf) |
 | Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA |   [Machine Learning](FCD_M4_1_Machine_Learning.ipynb)| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_1_Machine_learning.pdf) |
 | Prática dos conteúdos estudados: clusterização e predição |  [TensorFlow e Keras](FCD_M4_2_ML_aplicacoes.ipynb)| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
