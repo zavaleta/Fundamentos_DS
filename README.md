@@ -15,9 +15,9 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 ## Módulo 1:
 
-| Temas                        |        Jupyter Notebook     |  PDF          |
-|:-----------------------------|:---------------------------:|:-------------:|
-|Reprodutibilidade em Pesquisa Computacional |  [Reprodutibilidade](FCD_M1_3_Reprodutibilidade.ipynb) |  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P1.pdf) |
+| Temas                        |        Jupyter Notebook     |  PDF          | Revisado |
+|:-----------------------------|:---------------------------:|:-------------:|:---:|
+|Reprodutibilidade em Pesquisa Computacional |  [Reprodutibilidade](FCD_M1_3_Reprodutibilidade.ipynb) |  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P1.pdf) | <img src="imagens/check.png" alt="img" width="25"/>|
 |Introdução a Proveniência de Dados | [Proveniência](FCD_M1_4_Provenance.ipynb) |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P2.pdf)  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P3.pdf) [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_2_P1_DOM.pdf)|
 |Gestão de Grandes Volumes de Dados de Pesquisa| Gestão | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](FCD_not_found.ipynb)|
 |Ambiente de Programação: python 3, jupyter notebook, JupyterLab, Google Colab, DeepNote, pacotes e github | Instalação Anaconda, Jupyter Notebook, Jupyterlab | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/Ambientes_de_programacao.pdf) |
