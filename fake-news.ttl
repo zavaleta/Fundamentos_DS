@@ -1,0 +1,18 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix greco: <http://www.ufrj.br/ppgi/greco/#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix ufrj: <http://www.ufrj.br/ppgi/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ufrj:fake-news a prov:Entity ;
+    prov:generatedAtTime "2022-08-08 22:11:59.407650"^^xsd:string ;
+    prov:wasAttributedTo foaf:Jorge ;
+    prov:wasGeneratedBy greco:webscrapping .
+
+greco:webscrapping a prov:Activity .
+
+foaf:Jorge a prov:Agent ;
+    prov:attributedAtTime "2022-08-08 22:11:59.407650"^^xsd:string ;
+    prov:hadRole "Executor"^^xsd:string ;
+    foaf:mbox "sergioserra@gmail.com"^^xsd:string .
+
