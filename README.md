@@ -32,34 +32,34 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Técnicas de coleta e preparação de dados |  [WebScraping](FCD_M2_0_WebScraping.ipynb) | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_Modulo_2_1_webscraping.pdf) |<img src="imagens/check.png" alt="img" width="40"/>|
 | Numpy I: array, slicing, fancy index, copy and view | [Numpy](FCD_M2_1_Numpy.ipynb). [Numpy Avançado](FCD_M2_1_Numpy_avancado.ipynb)    | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS') | <img src="imagens/check.png" alt="img" width="40"/>|
 | Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel) | [Pandas](FCD_M2_2_Pandas.ipynb)|   [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_M2_WebScraping_pandas.pdf) | <img src="imagens/check.png" alt="img" width="40"/>|
-| Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, json, rdf| []()|[<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS')| <img src="imagens/check.png" alt="img" width="40"/>|
+| Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, json, rdf|x|[<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS')| <img src="imagens/check.png" alt="img" width="40"/>|
 
 
 ## Módulo 3:
 
-| Temas                                 |      Jupyter Notebook               |  PDF         |
-|:--------------------------------------|:-----------------------------------:|:------------:|
-| Técnicas de análise de dados|  []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS') |
-| Numpy II e Matplotlib: operações com array, broadcasting, construção de gráficos usuais |  [Gráficos Estáticos](FCD_M3_1_Graficos_simples.ipynb)| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
-| Pandas II: estatísticas básicas |  [Gráficos Avançados](FCD_M3_2_Graficos_avancados.ipynb)| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
-| Prática dos conteúdos estudados: manipulando dados de saúde, ambiente, agricultura, cidades inteligentes |  []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+| Temas                                 |      Teoria                         |  Prática     | Atualizado|
+|:--------------------------------------|:-----------------------------------:|:------------:|:---------:|
+| Técnicas de análise de dados| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS') | x| <img src="imagens/check.png" alt="img" width="40"/>|
+| Numpy II e Matplotlib: operações com array, broadcasting, construção de gráficos usuais |[<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |  [Gráficos Estáticos](FCD_M3_1_Graficos_simples.ipynb)|<img src="imagens/check.png" alt="img" width="40"/>|
+| Pandas II: estatísticas básicas | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() | [Gráficos Avançados](FCD_M3_2_Graficos_avancados.ipynb)|<img src="imagens/check.png" alt="img" width="40"/> |
+| Prática dos conteúdos estudados: manipulando dados de saúde, ambiente, agricultura, cidades inteligentes | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |x|<img src="imagens/check.png" alt="img" width="40"/> |
 
 
 ## Módulo 4:
 
-|      Temas                            |      Jupyter Notebook               |  PDF         |
-|:--------------------------------------|:-----------------------------------:|:------------:|
-| Introdução a técnicas de modelagem de fluxo de dados |   [Zenodo+Binder](FCD_M1_5_Zenodo_Binder.ipynb)| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_0_Workflow.pdf) |
-| Algoritmos e técnicas de extração inteligente de conhecimento |   []()| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_1_P2.pdf) |
-| Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA |   [Machine Learning](FCD_M4_1_Machine_Learning.ipynb)| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_1_Machine_learning.pdf) |
-| Prática dos conteúdos estudados: clusterização e predição |  [TensorFlow e Keras](FCD_M4_2_ML_aplicacoes.ipynb)| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+|      Temas                            |      Teoria                         |  Prática     | Atualizado |
+|:--------------------------------------|:-----------------------------------:|:------------:|:----------:|
+| Introdução a técnicas de modelagem de fluxo de dados | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_0_Workflow.pdf) | [Zenodo+Binder](FCD_M1_5_Zenodo_Binder.ipynb)| |
+| Algoritmos e técnicas de extração inteligente de conhecimento | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_1_P2.pdf) |[]() | |
+| Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_1_Machine_learning.pdf) |  [Machine Learning](FCD_M4_1_Machine_Learning.ipynb)| []() |
+| Prática dos conteúdos estudados: clusterização e predição |[<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() | [TensorFlow e Keras](FCD_M4_2_ML_aplicacoes.ipynb)|  |
 
 ## Módulo 5:
 
-| Temas                                 |      Jupyter Notebook               |  PDF         |
-|:--------------------------------------|:-----------------------------------:|:------------:|
-| Seminários sobre Ciência de Dados aplicados domínio específicos (e.g. Saúde, Educação, Sustentabilidade, Agricultura, Cidades Inteligentes, covid-19, entre outros) | [Nanopublications](FCD_M5_Nanopublications.ipynb)| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_M3_4_P3.pdf) |
-| Apresentação de trabalhos – proposta de artigos|  []()| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |
+| Temas                                 |      Teoria                         |  Prática     | Atualizado |
+|:--------------------------------------|:-----------------------------------:|:------------:|:----------:|
+| Seminários sobre Ciência de Dados aplicados domínio específicos (e.g. Saúde, Educação, Sustentabilidade, Agricultura, Cidades Inteligentes, covid-19, entre outros) | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_M3_4_P3.pdf) |[Nanopublications](FCD_M5_Nanopublications.ipynb)|  |
+| Apresentação de trabalhos – proposta de artigos| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |[]() |[]()|
 
 ## Material Adicional:
 1. Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions Fabien C. Y. Benureau and Nicolas P. Rougier. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full)
@@ -106,4 +106,4 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 >Sergio Serra, & Jorge Zavaleta. (2021, February 21). zavaleta/Fundamentos_DS: Repository of Data science Fundamentals (Version fds). Zenodo. http://doi.org/10.5281/zenodo.4553793
 
 ---
-**Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021**
+**Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021,2022**
