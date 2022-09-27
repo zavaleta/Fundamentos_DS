@@ -52,7 +52,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Introdução a técnicas de modelagem de fluxo de dados | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_0_Workflow.pdf) | [Zenodo+Binder](FCD_M1_5_Zenodo_Binder.ipynb)|<img src="imagens/check.png" alt="img" width="40"/> |
 | Algoritmos e técnicas de extração inteligente de conhecimento | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_1_P2.pdf) |[]() | |
 | Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_1_Machine_learning.pdf) |  [Machine Learning](FCD_M4_1_Machine_Learning.ipynb)| <img src="imagens/check.png" alt="img" width="40"/> |
-| Prática dos conteúdos estudados: clusterização e predição |[<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() | [TensorFlow e Keras](FCD_M4_2_ML_aplicacoes.ipynb)|  |
+| Prática dos conteúdos estudados: clusterização e predição |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_2_DeepLearning_v1.pdf) | [TensorFlow e Keras](FCD_M4_2_ML_aplicacoes.ipynb)|<img src="imagens/check.png" alt="img" width="40"/>   |
 
 ## Módulo 5:
 
