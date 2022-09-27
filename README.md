@@ -103,7 +103,16 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 
 ### Cite as
 ---
->Sergio Serra, & Jorge Zavaleta. (2021, February 21). zavaleta/Fundamentos_DS: Repository of Data science Fundamentals (Version fds). Zenodo. http://doi.org/10.5281/zenodo.4553793
+>Sergio Serra, & Jorge Zavaleta. (2020, February 21). zavaleta/Fundamentos_DS: Repository of Data science Fundamentals (Version fds). Zenodo. http://doi.org/10.5281/zenodo.4553793
+
+## Trabalhos da disciplina
+### 2020.3
+1. **Os impactos das fake-news na população mundial**. Autores: Monica Novellino, Sírius Da silva, Vinicius Da Silva. [Github](https://github.com/ppgi-ufrj-data-science/FakeNews). 2020.
+2. **O uso das Redes Sociais Digitais e as Eleções para o Cargo de Prefeito do Rio de Janeiro**. Autores: Ana Paula Vasconcelos, Jivago Medeiros, Rafael Escalfoni, Silas Filho, Sírius Da Silva. [GitHub](https://github.com/FundamentosDataScienceEleicoesRJ2020/Sandbox)
+
+### 2022.2
+1. **Scientific Recommender**. Aurores: Ingrid Pacheco, Eduardo Prata e Renan Parreira. 2022. [<img src="imagens/git.png" alt="github" width="25"/>](https://github.com/ingridpacheco/Scientific-Recommender)
+2. **drecvm**. Autores: Valquire, Saulo Almeida, Gilberto Gil. [GitHub](https://github.com/OBInvest/drecvm), 2022.
 
 ---
 **Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021,2022**
