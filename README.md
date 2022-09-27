@@ -107,12 +107,12 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 
 ## Trabalhos da disciplina
 ### 2020.3
-1. **Os impactos das fake-news na população mundial**. Autores: Monica Novellino, Sírius Da silva, Vinicius Da Silva. [Github](https://github.com/ppgi-ufrj-data-science/FakeNews). 2020.
-2. **O uso das Redes Sociais Digitais e as Eleções para o Cargo de Prefeito do Rio de Janeiro**. Autores: Ana Paula Vasconcelos, Jivago Medeiros, Rafael Escalfoni, Silas Filho, Sírius Da Silva. [GitHub](https://github.com/FundamentosDataScienceEleicoesRJ2020/Sandbox)
+1. **Os impactos das fake-news na população mundial**. Autores: Monica Novellino, Sírius Da silva, Vinicius Da Silva,2020. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/ppgi-ufrj-data-science/FakeNews)
+2. **O uso das Redes Sociais Digitais e as Eleções para o Cargo de Prefeito do Rio de Janeiro**. Autores: Ana Paula Vasconcelos, Jivago Medeiros, Rafael Escalfoni, Silas Filho, Sírius Da Silva,2020. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/FundamentosDataScienceEleicoesRJ2020/Sandbox)
 
 ### 2022.2
-1. **Scientific Recommender**. Aurores: Ingrid Pacheco, Eduardo Prata e Renan Parreira. 2022. [<img src="imagens/git.png" alt="github" width="25"/>](https://github.com/ingridpacheco/Scientific-Recommender)
-2. **drecvm**. Autores: Valquire, Saulo Almeida, Gilberto Gil. [GitHub](https://github.com/OBInvest/drecvm), 2022.
+1. **Scientific Recommender**. Aurores: Ingrid Pacheco, Eduardo Prata e Renan Parreira. 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/ingridpacheco/Scientific-Recommender)
+2. **drecvm**. Autores: Valquire, Saulo Almeida, Gilberto Gil, 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/OBInvest/drecvm)
 
 ---
 **Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021,2022**
