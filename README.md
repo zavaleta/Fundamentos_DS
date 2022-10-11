@@ -106,13 +106,17 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 >Sergio Serra, & Jorge Zavaleta. (2020, February 21). zavaleta/Fundamentos_DS: Repository of Data science Fundamentals (Version fds). Zenodo. http://doi.org/10.5281/zenodo.4553793
 
 ## Trabalhos da disciplina
-### 2020.3
+### 2020.3/2021.1
 1. **Os impactos das fake-news na população mundial**. Autores: Monica Novellino, Sírius Da silva, Vinicius Da Silva,2020. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/ppgi-ufrj-data-science/FakeNews)
 2. **O uso das Redes Sociais Digitais e as Eleções para o Cargo de Prefeito do Rio de Janeiro**. Autores: Ana Paula Vasconcelos, Jivago Medeiros, Rafael Escalfoni, Silas Filho, Sírius Da Silva,2020. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/FundamentosDataScienceEleicoesRJ2020/Sandbox)
 
 ### 2022.2
 1. **Scientific Recommender**. Aurores: Ingrid Pacheco, Eduardo Prata e Renan Parreira. 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/ingridpacheco/Scientific-Recommender)
 2. **drecvm**. Autores: Valquire, Saulo Almeida, Gilberto Gil, 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/OBInvest/drecvm)
+3. **Estudo sobre a Participação das Mulheres nos Cursos de Graduação na Área STEM**. Autores: Alexandre N. Louzada, Lenise M. V. Rodrigues, Lucas Lopes Felipe e Luciane C. J. de Deus. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/lucaslopes/alunas)
+4. **Queimadas no Pantanal: Uma análise exploratória da última década**. Autores: Charles Pimentel e Isaac D'Césares. 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/charlespimentel/DS_queimadas_pantanal)
+5. **MonkeyPox Feelings**. Autores: Eliel Roger, Fillipe Dornelas. 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/fdornelasx/fundamentos-ds)
+6. **Estudo de caso utilizando dados do INMET no ano de 2019 - ISNA**. Autores: Anderson Neto, Alex Santos, Douglas Castro. 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/AlexSantoss/Fundamentos-DS)
 
 ---
 **Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021,2022**
