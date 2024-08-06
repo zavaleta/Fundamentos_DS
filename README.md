@@ -118,5 +118,9 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 5. **MonkeyPox Feelings**. Autores: Eliel Roger, Fillipe Dornelas. 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/fdornelasx/fundamentos-ds)
 6. **Estudo de caso utilizando dados do INMET no ano de 2019 - ISNA**. Autores: Anderson Neto, Alex Santos, Douglas Castro. 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/AlexSantoss/Fundamentos-DS)
 
+### 2024.2
+ 1. News!
+
+
 ---
-**Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021,2022**
+**Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021,2022, 2024**
