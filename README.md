@@ -16,7 +16,8 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 ## Módulo 1:
 
 | Temas                        |        Jupyter Notebook     |  PDF          | Atualizado |
-|:-----------------------------|:---------------------------:|:-------------:|:---:|
+|:-----------------------------|:---------------------------:|:-------------:|:----------:|
+| O que é data science?        | -- | <img src="imagens/pdf2.png" alt="pdf" width="25"/>|<img src="imagens/check.png" alt="img" width="40"/>|
 |Reprodutibilidade em Pesquisa Computacional |  [Reprodutibilidade](FCD_M1_3_Reprodutibilidade.ipynb) |  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P1.pdf) | <img src="imagens/check.png" alt="img" width="40"/>|
 |Introdução a Proveniência de Dados | [Proveniência](FCD_M1_4_Provenance.ipynb) |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P2.pdf)  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P3.pdf) [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_2_P1_DOM.pdf)| <img src="imagens/check.png" alt="img" width="40"/>|
 |Gestão de Grandes Volumes de Dados de Pesquisa| Gestão | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](FCD_not_found.ipynb)| x|
@@ -83,6 +84,7 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 7. Jonh Hearty, Advanced Machine Learning with Python. Packt Publishing, 2016.
 8. Andreas C. Mueller and Sarah Guido, Machine Learning with Python. O'Reilly Media, 2016.
 9. John D. Kelleher, Brian Mac Namee, and Aoife DArcy. Fundamentals of machine learning for predictive data analytics: algorithms, worked examples, and case studies. MIT, 2015.
+10. Fernando Amaral, Introdução à Ciência de dados: Mineração de dados e Big Data. Alta Books, 2016. ISBN:978-85-7608-934-6
 10. Artigos Selecionados
 
 
@@ -123,4 +125,4 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 
 
 ---
-**Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021,2022, 2024**
+**Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021, 2022, 2024**
