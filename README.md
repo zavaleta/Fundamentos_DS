@@ -17,7 +17,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 | Temas                        |        Jupyter Notebook     |  PDF          | Atualizado |
 |:-----------------------------|:---------------------------:|:-------------:|:----------:|
-| O que é data science?        | -- | <img src="imagens/pdf2.png" alt="pdf" width="25"/>|<img src="imagens/check.png" alt="img" width="40"/>|
+| O que é data science?        | [introdução a Markdown](FCD_M1_0_Introducao.ipynb) | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M1_0_Intro_DataScience_parte1.pdf)|<img src="imagens/check.png" alt="img" width="40"/>|
 |Reprodutibilidade em Pesquisa Computacional |  [Reprodutibilidade](FCD_M1_3_Reprodutibilidade.ipynb) |  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P1.pdf) | <img src="imagens/check.png" alt="img" width="40"/>|
 |Introdução a Proveniência de Dados | [Proveniência](FCD_M1_4_Provenance.ipynb) |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P2.pdf)  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P3.pdf) [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_2_P1_DOM.pdf)| <img src="imagens/check.png" alt="img" width="40"/>|
 |Gestão de Grandes Volumes de Dados de Pesquisa| Gestão | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](FCD_not_found.ipynb)| x|
