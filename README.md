@@ -12,14 +12,19 @@ Sergio Serra                  | Jorge Zavaleta
 ## Ementa:
 Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão de grandes volumes de dados científicos. Coleta e preparação de dados. Algoritmos de exploração e análise de dados. Métodos de modelagem fluxo de dados. Elaboração de relatórios de resultados através de documentos com código Python incluindo gráficos e tabelas.
 
+## Módulo 0:
+
+| Temas                        |        Jupyter Notebook     |  PDF          | Atualizado |
+|:-----------------------------|:---------------------------:|:-------------:|:----------:|
+| Calendário e critérios de aprovação | -                    | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M0_0.pdf)|<img src="imagens/check.png" alt="img" width="40"/>|
 
 ## Módulo 1:
 
 | Temas                        |        Jupyter Notebook     |  PDF          | Atualizado |
 |:-----------------------------|:---------------------------:|:-------------:|:----------:|
-| O que é data science?        | [Introdução a Markdown](FCD_M1_0_Introducao.ipynb) | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M1_0_Intro_DataScience_parte1.pdf)|<img src="imagens/check.png" alt="img" width="40"/>|
-|Reprodutibilidade em Pesquisa Computacional |  [Reprodutibilidade](FCD_M1_3_Reprodutibilidade.ipynb) |  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P1.pdf) | <img src="imagens/check.png" alt="img" width="40"/>|
-|Introdução a Proveniência de Dados | [Proveniência](FCD_M1_4_Provenance.ipynb) |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P2.pdf)  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_1_P3.pdf) [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Modulo_2_P1_DOM.pdf)| <img src="imagens/check.png" alt="img" width="40"/>|
+| O que é data science?        | [Introdução a Markdown](FCD_M1_0_Introducao.ipynb) |[<img src="imagens/pdf2.png" alt="pdf" width="25"/>](FCD_not_found.ipynb)| <img src="imagens/check.png" alt="img" width="40"/>|
+|Data Science, Reprodutibilidade, Replicabilidade em Pesquisa Computacional |  [Reprodutibilidade](FCD_M1_3_Reprodutibilidade.ipynb) |  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M1_1.pdf) | <img src="imagens/check.png" alt="img" width="40"/>|
+|Introdução a Proveniência de Dados | [Proveniência](FCD_M1_4_Provenance.ipynb) |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M1_2.pdf)  | <img src="imagens/check.png" alt="img" width="40"/>|
 |Gestão de Grandes Volumes de Dados de Pesquisa| Gestão | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](FCD_not_found.ipynb)| x|
 |Ambiente de Programação: python 3, jupyter notebook, JupyterLab, Google Colab, DeepNote, pacotes e github | Instalação Anaconda, Jupyter Notebook, Jupyterlab | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/Ambientes_de_programacao.pdf) | <img src="imagens/check.png" alt="img" width="40"/>|
 |Python I: tipos de dados, sequências e operações, estruturas de controle e repetição | [Tipos de dados](FCD_M1_1_Tipos_de_dados.ipynb). [Estruturas de Controle](FCD_M1_2_Estruturas_de_controle.ipynb) | Exercícios em Jupyter/Colab/Deepnote| <img src="imagens/check.png" alt="img" width="40"/>|
@@ -30,9 +35,10 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 | Temas                                 |      Jupyter Notebook               |  PDF         | Atualizado |
 |:--------------------------------------|:-----------------------------------:|:------------:|:------------------:|
-| Técnicas de coleta e preparação de dados |  [WebScraping](FCD_M2_0_WebScraping.ipynb) | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_Modulo_2_1_webscraping.pdf) |<img src="imagens/check.png" alt="img" width="40"/>|
-| Numpy I: array, slicing, fancy index, copy and view | [Numpy](FCD_M2_1_Numpy.ipynb). [Numpy Avançado](FCD_M2_1_Numpy_avancado.ipynb)    | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS') | <img src="imagens/check.png" alt="img" width="40"/>|
-| Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel) | [Pandas](FCD_M2_2_Pandas.ipynb)|   [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_M2_WebScraping_pandas.pdf) | <img src="imagens/check.png" alt="img" width="40"/>|
+| Técnicas de coleta e preparação de dados |  [WebScraping](FCD_M2_0_WebScraping.ipynb) | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M2_1.pdf) |<img src="imagens/check.png" alt="img" width="40"/>|
+| Numpy I: array, slicing, fancy index, copy, view e tensores| [Numpy](FCD_M2_1_Numpy.ipynb). [Numpy Avançado](FCD_M2_1_Numpy_avancado.ipynb)    | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/numpy_2.pdf) | <img src="imagens/check.png" alt="img" width="40"/>|
+| Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel) | [Pandas](FCD_M2_2_Pandas.ipynb)|  [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS') | <img src="imagens/check.png" alt="img" width="40"/>|
+| Data cleaning, Exploration | [Pandas](FCD_M2_2_Pandas.ipynb)| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M2_2.pdf) |  <img src="imagens/check.png" alt="img" width="40"/> |
 | Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, json, rdf|x|[<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS')| <img src="imagens/check.png" alt="img" width="40"/>|
 
 
