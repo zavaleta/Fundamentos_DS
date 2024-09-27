@@ -38,7 +38,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Técnicas de coleta e preparação de dados |  [WebScraping](FCD_M2_0_WebScraping.ipynb) | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M2_1.pdf) |<img src="imagens/check.png" alt="img" width="40"/>|
 | Numpy I: array, slicing, fancy index, copy, view e tensores| [Numpy](FCD_M2_1_Numpy.ipynb). [Numpy Avançado](FCD_M2_1_Numpy_avancado.ipynb)    | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/numpy_2.pdf) | <img src="imagens/check.png" alt="img" width="40"/>|
 | Pandas I: dataframes, series, index, Pandas I/O (csv, json, excel) | [Pandas](FCD_M2_2_Pandas.ipynb)|  [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS') | <img src="imagens/check.png" alt="img" width="40"/>|
-| Data cleaning, Exploration | [Pandas](FCD_M2_2_Pandas.ipynb)| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M2_2.pdf) |  <img src="imagens/check.png" alt="img" width="40"/> |
+| Data cleaning, Exploration | [Data Cleaning](FCD_M2_3_Data_Cleaning.ipynb)| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M2_2.pdf) |  <img src="imagens/check.png" alt="img" width="40"/> |
 | Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, json, rdf|x|[<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS')| <img src="imagens/check.png" alt="img" width="40"/>|
 
 
