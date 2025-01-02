@@ -124,7 +124,7 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 
 ### 2024.2
 1. Análise Comparativa de Dados de Segurança Pública no Brasil: Uma Abordagem Estatística e Visual. Autor: Emerson Duarte, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/emersonbd/DatasetSP)
-2. Decifrando Dados linguísticos: Análise comparativa dos lematizadores para língua portugues. Autor: Mariana Gonçalves da Costa, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/MarianaGCosta/Lematizacao-do-portugues)
+2. Decifrando Dados linguísticos: Análise comparativa dos lematizadores para língua portugues. Autor: Mariana Gonçalves da Costa, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/MarianaGCosta/Processamento-de-dados-em-portugues-brasileiro)
 3. Educação básica e deficiências visual e auditiva no Brasil no ensino à distância: Dados e perspectivas a partir dos Microdados do INEP (2021-2023), 2024. Autor: Andreza Santos. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/AndrezaCS/Trabalho_Final_FCD_Andreza)
 4. Sistema Computacional para Apoio no Controle de Dopagem. Autor: Guy Junior, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/guyjunior/LogicafuzzyAndR2)
 5. Avaliação e Proveniência de dados públicos da ANP. Autor: Ubirajara S. Santos, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/ubirajara-s/eda)
