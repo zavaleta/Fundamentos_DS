@@ -109,10 +109,6 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 1. The Open Science Training - Handbook https://book.fosteropenscience.eu/en/01Introduction/
 2. Recursos indicados em sala de aula
 
-### Cite as
----
->Sergio Serra, & Jorge Zavaleta. (2020, February 21). zavaleta/Fundamentos_DS: Repository of Data science Fundamentals (Version fds). Zenodo. http://doi.org/10.5281/zenodo.4553793
-
 ## Trabalhos da disciplina
 ### 2020.3/2021.1
 1. **Os impactos das fake-news na população mundial**. Autores: Monica Novellino, Sírius Da silva, Vinicius Da Silva,2020. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/ppgi-ufrj-data-science/FakeNews)
@@ -127,8 +123,21 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 6. **Estudo de caso utilizando dados do INMET no ano de 2019 - ISNA**. Autores: Anderson Neto, Alex Santos, Douglas Castro. 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/AlexSantoss/Fundamentos-DS)
 
 ### 2024.2
- 1. News!
+ 1. X. Emerson Duarte
+ 2. X. Mariana Gonçalves
+ 3. x. x
+ 4. x. x
+ 5. x. x
+ 6. x. x
+ 7. x. y
 
+
+
+
+---
+### Cite as
+---
+>Sergio Serra, & Jorge Zavaleta. (2020, February 21). zavaleta/Fundamentos_DS: Repository of Data science Fundamentals (Version fds). Zenodo. http://doi.org/10.5281/zenodo.4553793
 
 ---
 **Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021, 2022, 2024**
