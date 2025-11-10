@@ -109,10 +109,6 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 1. The Open Science Training - Handbook https://book.fosteropenscience.eu/en/01Introduction/
 2. Recursos indicados em sala de aula
 
-### Cite as
----
->Sergio Serra, & Jorge Zavaleta. (2020, February 21). zavaleta/Fundamentos_DS: Repository of Data science Fundamentals (Version fds). Zenodo. http://doi.org/10.5281/zenodo.4553793
-
 ## Trabalhos da disciplina
 ### 2020.3/2021.1
 1. **Os impactos das fake-news na população mundial**. Autores: Monica Novellino, Sírius Da silva, Vinicius Da Silva,2020. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/ppgi-ufrj-data-science/FakeNews)
@@ -127,8 +123,19 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 6. **Estudo de caso utilizando dados do INMET no ano de 2019 - ISNA**. Autores: Anderson Neto, Alex Santos, Douglas Castro. 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/AlexSantoss/Fundamentos-DS)
 
 ### 2024.2
- 1. News!
+1. Análise Comparativa de Dados de Segurança Pública no Brasil: Uma Abordagem Estatística e Visual. Autor: Emerson Duarte, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/emersonbd/DatasetSP)
+2. Decifrando Dados linguísticos: Análise comparativa dos lematizadores para língua portugues. Autor: Mariana Gonçalves da Costa, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/MarianaGCosta/Processamento-de-dados-em-portugues-brasileiro)
+3. Educação básica e deficiências visual e auditiva no Brasil no ensino à distância: Dados e perspectivas a partir dos Microdados do INEP (2021-2023), 2024. Autor: Andreza Santos. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/AndrezaCS/Trabalho_Final_FCD_Andreza)
+4. Sistema Computacional para Apoio no Controle de Dopagem. Autor: Guy Junior, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/guyjunior/LogicafuzzyAndR2)
+5. Avaliação e Proveniência de dados públicos da ANP. Autor: Ubirajara S. Santos, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/ubirajara-s/eda)
+6. xx Autor: Fuschilo, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/prof-fuschilo/FCD)
+7. Análise de Dados Climáticos e Históricos da Produção de Algodão no Brasil. Autor: Raphael Mauricio Sanches de Jesus, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/Raphael-UFRJ/analise_algodao)
 
+
+---
+### Cite as
+---
+>Sergio Serra, & Jorge Zavaleta. (2020, February 21). zavaleta/Fundamentos_DS: Repository of Data science Fundamentals (Version fds). Zenodo. http://doi.org/10.5281/zenodo.4553793
 
 ---
 **Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021, 2022, 2024**
