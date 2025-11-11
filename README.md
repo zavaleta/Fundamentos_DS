@@ -65,7 +65,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 | Temas                                 |      Teoria                         |  Prática     | Atualizado |
 |:--------------------------------------|:-----------------------------------:|:------------:|:----------:|
-| Seminários sobre Ciência de Dados aplicados domínio específicos (e.g. Saúde, Educação, Sustentabilidade, Agricultura, Cidades Inteligentes, covid-19, lógica Fuzzy, entre outros) | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_2025_2_Fuzzy_logic.pdf) |[Lógica Fuzzy](FCD_2025_2_Fuzzy_Logic.ipynb)| <img src="imagens/check.png" alt="img" width="40"/>  |
+| Seminários sobre Ciência de Dados aplicados domínio específicos (e.g. Saúde, Educação, Sustentabilidade, Agricultura, Cidades Inteligentes, covid-19, lógica Fuzzy, entre outros) | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_2025_2_Fuzzy_Logic.pdf) |[Lógica Fuzzy](FCD_2025_2_Fuzzy_Logic.ipynb)| <img src="imagens/check.png" alt="img" width="40"/>  |
 | Apresentação de trabalhos – proposta de artigos| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |[]() |[]()|
 
 ## Material Adicional:
