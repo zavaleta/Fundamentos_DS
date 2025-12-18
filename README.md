@@ -131,6 +131,14 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 6. xx Autor: Fuschilo, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/prof-fuschilo/FCD)
 7. Análise de Dados Climáticos e Históricos da Produção de Algodão no Brasil. Autor: Raphael Mauricio Sanches de Jesus, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/Raphael-UFRJ/analise_algodao)
 
+### 2025.2
+1. Analise dos aspectos de Títulos e conteúdos que influenciam a atratividade de Vídeos educacionais de matemática no Youtube no contexto Brasileiro. Autor: Tiago César Cunha da Costa, 2025. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/cesartiago/Analise-de-aspectos-de-videos-educacionais-de-matematica-no-YouTube-no-contexto-brasileiro)
+2. Construção de dataset dos fatores da produção da leite entre as regiões do Brasil. Autor: Max Felipe S. S. Cravo, 2025. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/Maxcravo/fund_data_science_repo/blob/main/datascience_paper_sbc(1).pdf)
+3. Izabelle Rizzo, NOT FOUND!!
+4. André Ferreira Zeferino. NOT FOUND!!
+5. NOT FOUND!!
+6. NOT FOUND!!
+
 
 ---
 ### Cite as
