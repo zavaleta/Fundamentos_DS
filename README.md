@@ -136,7 +136,7 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 2. Construção de dataset dos fatores da produção da leite entre as regiões do Brasil. Autor: Max Felipe S. S. Cravo, 2025. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/Maxcravo/fund_data_science_repo/)
 3. Análise de uso de Telas e sua Relação com Transtornos de Saúde Mental. Autor: Izabelle Rizzo,2025. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/irizzo/2025-2_fund-ds)
 4. Aplicação de recursos na UFRJ e na UFRRJ: Uma análise do Panorama da Gestão Orçamentária de duas Universidades Federais do Estado do Rio de Janeiro entre os anos de 202o a 2024. Autores: André Ferreira Zeferino, Fernada Doria. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/gitzeferino/entregas_fundamentos_data_science/)
-5. NOT FOUND!!
+5. SINalise Ferramenta para análise preditiva de falhas em transformadores de frequência e potência do Sistema Interligado Nacional. Autor: Digão. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/Rrg331/Sinalize)
 6. NOT FOUND!!
 
 
