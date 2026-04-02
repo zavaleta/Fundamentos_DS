@@ -12,13 +12,15 @@
 ## Ementa:
 Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão de grandes volumes de dados científicos. Coleta e preparação de dados. Algoritmos de exploração e análise de dados. Métodos de modelagem fluxo de dados. Elaboração de relatórios de resultados através de documentos com código Python incluindo gráficos e tabelas.
 
+# Módulos do curso
+
 ## Módulo 0:
 
 | Temas                        |        Jupyter Notebook     |  PDF          | Atualizado |
 |:-----------------------------|:---------------------------:|:-------------:|:----------:|
 | Calendário e critérios de aprovação | -                    | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M0_0.pdf)|<img src="imagens/check.png" alt="img" width="40"/>|
 
-## Módulo 1:
+## Módulo 1 -- Fundamentos e Ambiente
 
 | Temas                        |        Jupyter Notebook     |  PDF          | Atualizado |
 |:-----------------------------|:---------------------------:|:-------------:|:----------:|
@@ -31,7 +33,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Prática dos conteúdos estudados: construindo e operando listas e strings | Exercícios | Jupyter/ Colab/Deepnote| <img src="imagens/check.png" alt="img" width="40"/>|
 
 
-## Módulo 2:
+## Módulo 2 -- Coleta, Numpy e Pandas
 
 | Temas                                 |      Jupyter Notebook               |  PDF         | Atualizado |
 |:--------------------------------------|:-----------------------------------:|:------------:|:------------------:|
@@ -42,7 +44,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, json, rdf|x|[<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS')| <img src="imagens/check.png" alt="img" width="40"/>|
 
 
-## Módulo 3:
+## Módulo 3 -- Análise e Visualização
 
 | Temas                                 |      Teoria                         |  Prática     | Atualizado|
 |:--------------------------------------|:-----------------------------------:|:------------:|:---------:|
@@ -52,7 +54,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Prática dos conteúdos estudados: manipulando dados de saúde, ambiente, agricultura, cidades inteligentes | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |x|<img src="imagens/check.png" alt="img" width="40"/> |
 
 
-## Módulo 4:
+## Módulo 4 -- Machine Learning
 
 |      Temas                            |      Teoria                         |  Prática     | Atualizado |
 |:--------------------------------------|:-----------------------------------:|:------------:|:----------:|
@@ -61,7 +63,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_1_Machine_learning.pdf) |  [Machine Learning](FCD_M4_1_Machine_Learning.ipynb)| <img src="imagens/check.png" alt="img" width="40"/> |
 | Prática dos conteúdos estudados: clusterização e predição |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_2_Deep_Learning.pdf) | [Deep Learning](FCD_M4_2_Deep_Learning.ipynb)|<img src="imagens/check.png" alt="img" width="40"/>   |
 
-## Módulo 5:
+## Módulo 5 -- Lógica Fuzzy, Seminários e Projetos
 
 | Temas                                 |      Teoria                         |  Prática     | Atualizado |
 |:--------------------------------------|:-----------------------------------:|:------------:|:----------:|
@@ -71,15 +73,15 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 ## Material Adicional:
 1. Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions Fabien C. Y. Benureau and Nicolas P. Rougier. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full)
 2. Provenance and the Different Flavors of Computational Reproducibility J. Freire and F. Chirigati In IEEE Data Engineering Bulletin, 41(1), pp. 15-26, 201. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](http://sites.computer.org/debull/A18mar/p15.pdf)
-3. Web Semãntica: Uma introdução. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Adiciona_Web_semantica.pdf)
+3. Web Semântica: Uma introdução. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Adiciona_Web_semantica.pdf)
 
-## FORMA DE AVALIAÇÃO
+## Avaliação
 
 Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em participação em sala de aula (P); exercícios e/ou protótipos desenvolvidos (E); apresentações/ /escritas de artigos (A).
 
 
 
-## BIBLIOGRAFIA
+## Bibliografia
 **Básica**
 1. National Academies of Sciences, Engineering, andMedicine. Reproducibility and Replicability in Science. Washington, DC: The National Academies Press, 1st Edition, 2019.
 2. Victoria Stodden, Friedrich Leisch, Roger D. Peng, Implementing Reproducible Research, CRC Press, 1st Edition, 2014.
@@ -104,7 +106,7 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 16. Manohar Swamynathan, Mastering Machine Learning with Python in Six Steps. Apress, 2017.
 17. Michel Bowles, Machine Learning in Python®: Essential Techniques for Predictive Analysis. John Wiley & Sons, Inc. 2015.
 
-## RECURSOS EDUCACIONAIS ADICIONAIS
+## Recursos Educacionais Adicionais
 
 1. The Open Science Training - Handbook https://book.fosteropenscience.eu/en/01Introduction/
 2. Recursos indicados em sala de aula
@@ -146,4 +148,4 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 >Sergio Serra, & Jorge Zavaleta. (2020, February 21). zavaleta/Fundamentos_DS: Repository of Data science Fundamentals (Version fds). Zenodo. http://doi.org/10.5281/zenodo.4553793
 
 ---
-**Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021, 2022, 2024**
+**Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021, 2022, 2024, 2025, 2026**
