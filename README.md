@@ -1,24 +1,40 @@
+<div align="center">
 ![PPGI_UFRJ](imagens/ppgi-ufrj.png)
-# Fundamentos de Ciência de Dados
+</div>
+
+# <center><span style="color:#F37726">Fundamentos de Ciência de Dados</span></center>
+
+---
+
+<div align="center">
 [![DOI](https://zenodo.org/badge/335308405.svg)](https://zenodo.org/badge/latestdoi/335308405)
+</div>
 
-## Professores:
+---
 
-Sergio Serra                  | Jorge Zavaleta
-------------------------------|--------------------------------|
- ![serra](imagens/serra.png) | ![Zavaleta](imagens/zavaleta.png)
-[serra@pet-si.ufrrj.br](mailto:serra@pet-si.ufrrj.br) | [zavaleta@pet-si.ufrrj.br](zavaleta@pet-si.ufrrj.br)
+## <span style="color:#F37726">Professores:</span>
 
-## Ementa:
+|Sergio Serra                  | Jorge Zavaleta                 | Livro Texto      |
+|------------------------------|--------------------------------|------------------|
+| ![serra](imagens/serra.png)  | ![Zavaleta](imagens/zavaleta.png)| [<img src="imagens/livro.png" alt="png" width="135"/>]()|
+|[serra@pet-si.ufrrj.br](mailto:serra@pet-si.ufrrj.br) | [zavaleta@pet-si.ufrrj.br](zavaleta@pet-si.ufrrj.br)|  Editora Cerceau   |
+
+## <span style="color:#F37726">Ementa:</span>
+
+<div style="background:#f8f9fa; border-left:4px solid #008B5B; padding:10px; margin:20px 0;">
 Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão de grandes volumes de dados científicos. Coleta e preparação de dados. Algoritmos de exploração e análise de dados. Métodos de modelagem fluxo de dados. Elaboração de relatórios de resultados através de documentos com código Python incluindo gráficos e tabelas.
+</div>
 
-## Módulo 0:
+## <span style="color:#F37726">Módulos do Curso</span>
+### <span style="color:#F37726">Módulo 0</span>
 
 | Temas                        |        Jupyter Notebook     |  PDF          | Atualizado |
 |:-----------------------------|:---------------------------:|:-------------:|:----------:|
 | Calendário e critérios de aprovação | -                    | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M0_0.pdf)|<img src="imagens/check.png" alt="img" width="40"/>|
 
-## Módulo 1:
+
+
+### <span style="color:#F37726">Módulo 1</span> — *Fundamentos e Ambiente*
 
 | Temas                        |        Jupyter Notebook     |  PDF          | Atualizado |
 |:-----------------------------|:---------------------------:|:-------------:|:----------:|
@@ -31,7 +47,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Prática dos conteúdos estudados: construindo e operando listas e strings | Exercícios | Jupyter/ Colab/Deepnote| <img src="imagens/check.png" alt="img" width="40"/>|
 
 
-## Módulo 2:
+### <span style="color:#F37726">Módulo 2</span> — *Coleta, Numpy e Pandas*
 
 | Temas                                 |      Jupyter Notebook               |  PDF         | Atualizado |
 |:--------------------------------------|:-----------------------------------:|:------------:|:------------------:|
@@ -41,8 +57,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Data cleaning, Exploration | [Data Cleaning](FCD_M2_3_Data_Cleaning.ipynb)| [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M2_2.pdf) |  <img src="imagens/check.png" alt="img" width="40"/> |
 | Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, json, rdf|x|[<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS')| <img src="imagens/check.png" alt="img" width="40"/>|
 
-
-## Módulo 3:
+### <span style="color:#F37726">Módulo 3</span> — *Análise e Visualização*
 
 | Temas                                 |      Teoria                         |  Prática     | Atualizado|
 |:--------------------------------------|:-----------------------------------:|:------------:|:---------:|
@@ -52,7 +67,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Prática dos conteúdos estudados: manipulando dados de saúde, ambiente, agricultura, cidades inteligentes | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |x|<img src="imagens/check.png" alt="img" width="40"/> |
 
 
-## Módulo 4:
+### <span style="color:#F37726">Módulo 4</span> — *Machine Learning*
 
 |      Temas                            |      Teoria                         |  Prática     | Atualizado |
 |:--------------------------------------|:-----------------------------------:|:------------:|:----------:|
@@ -61,26 +76,35 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_1_Machine_learning.pdf) |  [Machine Learning](FCD_M4_1_Machine_Learning.ipynb)| <img src="imagens/check.png" alt="img" width="40"/> |
 | Prática dos conteúdos estudados: clusterização e predição |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_2_Deep_Learning.pdf) | [Deep Learning](FCD_M4_2_Deep_Learning.ipynb)|<img src="imagens/check.png" alt="img" width="40"/>   |
 
-## Módulo 5:
+### <span style="color:#F37726">Módulo 5</span> — *Seminários e Projetos*
 
 | Temas                                 |      Teoria                         |  Prática     | Atualizado |
 |:--------------------------------------|:-----------------------------------:|:------------:|:----------:|
 | Seminários sobre Ciência de Dados aplicados domínio específicos (e.g. Saúde, Educação, Sustentabilidade, Agricultura, Cidades Inteligentes, covid-19, lógica Fuzzy, entre outros) | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_2025_2_Fuzzy_logic.pdf) |[Lógica Fuzzy](FCD_2025_2_Fuzzy_Logic.ipynb)| <img src="imagens/check.png" alt="img" width="40"/>  |
-| Apresentação de trabalhos – proposta de artigos| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |[]() |[]()|
-
-## Material Adicional:
-1. Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions Fabien C. Y. Benureau and Nicolas P. Rougier. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full)
-2. Provenance and the Different Flavors of Computational Reproducibility J. Freire and F. Chirigati In IEEE Data Engineering Bulletin, 41(1), pp. 15-26, 201. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](http://sites.computer.org/debull/A18mar/p15.pdf)
-3. Web Semãntica: Uma introdução. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Adiciona_Web_semantica.pdf)
-
-## FORMA DE AVALIAÇÃO
-
-Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em participação em sala de aula (P); exercícios e/ou protótipos desenvolvidos (E); apresentações/ /escritas de artigos (A).
+| Apresentação de trabalhos – proposta de artigos| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |[-]() |[-]()|
 
 
+## <span style="color:#F37726">Material Adicional:</span>
+<div style="background:#fafafa; padding:1px; border-radius:5px;">
+1. **Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions** -- Fabien C. Y. Benureau and Nicolas P. Rougier. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full)
+2. **Provenance and the Different Flavors of Computational Reproducibility** -- J. Freire and F. Chirigati In IEEE Data Engineering Bulletin, 41(1), pp. 15-26, 201. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](http://sites.computer.org/debull/A18mar/p15.pdf)
+3. **Web Semântica: Uma introdução**. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Adiciona_Web_semantica.pdf)
+</div>
 
-## BIBLIOGRAFIA
-**Básica**
+## <span style="color:#F37726">Avaliação</span>
+
+>Critérios de aprovação conforme PPGI/UFRJ. A avaliação consiste em:
+<ul>
+<li><strong style="color:#F37726">P</strong> — Participação em sala de aula</li>
+<li><strong style="color:#F37726">E</strong> — Exercícios e/ou protótipos desenvolvidos</li>
+<li><strong style="color:#F37726">A</strong> — Apresentações e escrita de artigos</li>
+</ul>
+
+
+## <span style="color:#F37726">Bibliografia</span>
+
+###<strong style="color: #008B5B;">Básica:</strong>
+
 1. National Academies of Sciences, Engineering, andMedicine. Reproducibility and Replicability in Science. Washington, DC: The National Academies Press, 1st Edition, 2019.
 2. Victoria Stodden, Friedrich Leisch, Roger D. Peng, Implementing Reproducible Research, CRC Press, 1st Edition, 2014.
 3. Kleppmann, M., Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, O’Reilly, 2017.
@@ -94,7 +118,7 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 10. Artigos Selecionados
 
 
-**Complementar**
+### <strong style="color: #008B5B;">Complementar:</strong>
 
 11. Christopher Gandrud, Reproducible Research with R and R Studio (Chapman & Hall/CRC The R Series) 1st Edition
 12. Garret Christense, Jeremy Freese, Edward Miguel, Transparent and Reproducible Social Science Research, University of Californy Press, 1st edition, 2019
@@ -103,16 +127,19 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 15. Aurélio Géron, Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media, 2019.
 16. Manohar Swamynathan, Mastering Machine Learning with Python in Six Steps. Apress, 2017.
 17. Michel Bowles, Machine Learning in Python®: Essential Techniques for Predictive Analysis. John Wiley & Sons, Inc. 2015.
+</details>
 
-## RECURSOS EDUCACIONAIS ADICIONAIS
+
+##<span style="color:#F37726">Recursos Educacionais Adicionais</span>
 
 1. The Open Science Training - Handbook https://book.fosteropenscience.eu/en/01Introduction/
 2. Recursos indicados em sala de aula
 
-## Trabalhos da disciplina
+## <span style="color:#F37726">Trabalhos da Disciplina</span>
 ### 2020.3/2021.1
 1. **Os impactos das fake-news na população mundial**. Autores: Monica Novellino, Sírius Da silva, Vinicius Da Silva,2020. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/ppgi-ufrj-data-science/FakeNews)
 2. **O uso das Redes Sociais Digitais e as Eleções para o Cargo de Prefeito do Rio de Janeiro**. Autores: Ana Paula Vasconcelos, Jivago Medeiros, Rafael Escalfoni, Silas Filho, Sírius Da Silva,2020. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/FundamentosDataScienceEleicoesRJ2020/Sandbox)
+
 
 ### 2022.2
 1. **Scientific Recommender**. Aurores: Ingrid Pacheco, Eduardo Prata e Renan Parreira. 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/ingridpacheco/Scientific-Recommender)
@@ -140,10 +167,12 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 6. AnalyticalChemistryLake - Método para acessar, estruturar e armazenar dados analíticos a partir de técnicas de cromatografia. Autor: Luiz Eduardo D. Paiva. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/luizeduardo29/AnalyticalChemistryLake)
 
 
----
-### Cite as
----
->Sergio Serra, & Jorge Zavaleta. (2020, February 21). zavaleta/Fundamentos_DS: Repository of Data science Fundamentals (Version fds). Zenodo. http://doi.org/10.5281/zenodo.4553793
+### <span style="color:#F37726">Cite como</span>
+<div style="background:#f8f9fa; border-left:4px solid #008B5B; padding:10px; margin:20px 0;">
+Sergio Serra, & Jorge Zavaleta. (2020, February 21). zavaleta/Fundamentos_DS: Repository of Data science Fundamentals (Version fds). Zenodo. http://doi.org/10.5281/zenodo.4553793
+</div>
 
 ---
-**Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021, 2022, 2024**
+
+**Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021, 2022, 2024, 2025, 2026.**
+
