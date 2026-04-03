@@ -134,6 +134,9 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 7. Análise de Dados Climáticos e Históricos da Produção de Algodão no Brasil. Autor: Raphael Mauricio Sanches de Jesus, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/Raphael-UFRJ/analise_algodao)
 
 ### 2025.2
+<details>
+<summary><strong>### 2025.2</strong></summary>
+
 1. Analise dos aspectos de Títulos e conteúdos que influenciam a atratividade de Vídeos educacionais de matemática no Youtube no contexto Brasileiro. Autor: Tiago César Cunha da Costa, 2025. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/cesartiago/Analise-de-aspectos-de-videos-educacionais-de-matematica-no-YouTube-no-contexto-brasileiro)
 2. Construção de dataset dos fatores da produção da leite entre as regiões do Brasil. Autor: Max Felipe S. S. Cravo, 2025. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/Maxcravo/fund_data_science_repo/)
 3. Análise de uso de Telas e sua Relação com Transtornos de Saúde Mental. Autor: Izabelle Rizzo,2025. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/irizzo/2025-2_fund-ds)
@@ -141,6 +144,7 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 5. SINalise Ferramenta para análise preditiva de falhas em transformadores de frequência e potência do Sistema Interligado Nacional. Autor: Digão. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/Rrg331/Sinalize)
 6. AnalyticalChemistryLake - Método para acessar, estruturar e armazenar dados analíticos a partir de técnicas de cromatografia. Autor: Luiz Eduardo D. Paiva. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/luizeduardo29/AnalyticalChemistryLake)
 
+</details>
 
 ---
 ### Cite as
