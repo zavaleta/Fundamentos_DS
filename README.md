@@ -138,6 +138,7 @@ sala de aula (P); exercícios e/ou protótipos desenvolvidos (E); apresentaçõe
 
 <img src="imagens/banner_book.png" alt="Jorge Zavaleta" width="700"/>
 
+<br/>
 <center>Fonte: Jorge Zavaleta. Imagem ilustrativa gerada por nanobanana (Goggle)</center>
 </details>
 
@@ -209,7 +210,7 @@ sala de aula (P); exercícios e/ou protótipos desenvolvidos (E); apresentaçõe
 ---
 ### Cite as
 ---
->Sergio Serra, & Jorge Zavaleta. (2020, February 21). zavaleta/Fundamentos_DS: Repository of Data science Fundamentals (Version fds). Zenodo. http://doi.org/10.5281/zenodo.4553793
+```Sergio Serra, & Jorge Zavaleta. (2020, February 21). zavaleta/Fundamentos_DS: Repository of Data science Fundamentals (Version fds). Zenodo. http://doi.org/10.5281/zenodo.4553793```
 
 ---
 **Fundamentos para Ciência de Dados &copy; copyright, Sergio Serra e Jorge Zavaleta, 2021, 2022, 2024, 2025, 2026**
