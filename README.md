@@ -112,11 +112,18 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 2. Recursos indicados em sala de aula
 
 ## Trabalhos da disciplina
-### 2020.3/2021.1
+
+<details>
+### <summary><strong>2020.3/2021.1</strong></summary>
+
 1. **Os impactos das fake-news na população mundial**. Autores: Monica Novellino, Sírius Da silva, Vinicius Da Silva,2020. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/ppgi-ufrj-data-science/FakeNews)
 2. **O uso das Redes Sociais Digitais e as Eleções para o Cargo de Prefeito do Rio de Janeiro**. Autores: Ana Paula Vasconcelos, Jivago Medeiros, Rafael Escalfoni, Silas Filho, Sírius Da Silva,2020. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/FundamentosDataScienceEleicoesRJ2020/Sandbox)
 
-### 2022.2
+</details>
+
+<details>
+### <summary><strong>2022.2</strong></summary>
+
 1. **Scientific Recommender**. Aurores: Ingrid Pacheco, Eduardo Prata e Renan Parreira. 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/ingridpacheco/Scientific-Recommender)
 2. **drecvm**. Autores: Valquire, Saulo Almeida, Gilberto Gil, 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/OBInvest/drecvm)
 3. **Estudo sobre a Participação das Mulheres nos Cursos de Graduação na Área STEM**. Autores: Alexandre N. Louzada, Lenise M. V. Rodrigues, Lucas Lopes Felipe e Luciane C. J. de Deus. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/lucaslopes/alunas)
@@ -124,7 +131,11 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 5. **MonkeyPox Feelings**. Autores: Eliel Roger, Fillipe Dornelas. 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/fdornelasx/fundamentos-ds)
 6. **Estudo de caso utilizando dados do INMET no ano de 2019 - ISNA**. Autores: Anderson Neto, Alex Santos, Douglas Castro. 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/AlexSantoss/Fundamentos-DS)
 
-### 2024.2
+</details>
+
+<details>
+### <summary><strong>2024.2</strong></summary>
+
 1. Análise Comparativa de Dados de Segurança Pública no Brasil: Uma Abordagem Estatística e Visual. Autor: Emerson Duarte, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/emersonbd/DatasetSP)
 2. Decifrando Dados linguísticos: Análise comparativa dos lematizadores para língua portugues. Autor: Mariana Gonçalves da Costa, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/MarianaGCosta/Processamento-de-dados-em-portugues-brasileiro)
 3. Educação básica e deficiências visual e auditiva no Brasil no ensino à distância: Dados e perspectivas a partir dos Microdados do INEP (2021-2023), 2024. Autor: Andreza Santos. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/AndrezaCS/Trabalho_Final_FCD_Andreza)
@@ -133,9 +144,11 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 6. xx Autor: Fuschilo, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/prof-fuschilo/FCD)
 7. Análise de Dados Climáticos e Históricos da Produção de Algodão no Brasil. Autor: Raphael Mauricio Sanches de Jesus, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/Raphael-UFRJ/analise_algodao)
 
-### 2025.2
+</details>
+
+
 <details>
-<summary><strong>### 2025.2</strong></summary>
+### <summary><strong style="color: #008B5B;"> 📗 2025.2</strong></summary>
 
 1. Analise dos aspectos de Títulos e conteúdos que influenciam a atratividade de Vídeos educacionais de matemática no Youtube no contexto Brasileiro. Autor: Tiago César Cunha da Costa, 2025. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/cesartiago/Analise-de-aspectos-de-videos-educacionais-de-matematica-no-YouTube-no-contexto-brasileiro)
 2. Construção de dataset dos fatores da produção da leite entre as regiões do Brasil. Autor: Max Felipe S. S. Cravo, 2025. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/Maxcravo/fund_data_science_repo/)
