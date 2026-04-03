@@ -136,10 +136,9 @@ sala de aula (P); exercícios e/ou protótipos desenvolvidos (E); apresentaçõe
 <details>
 <summary><strong>Livro</strong></summary>
 
-<img src="imagens/banner_book.png" alt="Imagem ilustrativa gerada por NANOBANANA" width="300"/>
+<img src="imagens/banner_book.png" alt="Jorge Zavaleta" width="700"/>
 
-<img src="imagens/banner_book.png" alt="Imagem ilustrativa gerada por NANOBANANA" width="600"/>
-
+<center>Fonte: Jorge Zavaleta. Imagem ilustrativa gerada por nanobanana (Goggle)</center>
 </details>
 
 ---
