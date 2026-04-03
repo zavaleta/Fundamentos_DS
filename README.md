@@ -14,13 +14,13 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 # Módulos do curso
 
-## Módulo 0:
+## Módulo 0: Calendaárioe Critérios de Aprovação
 
 | Temas                        |        Jupyter Notebook     |  PDF          | Atualizado |
 |:-----------------------------|:---------------------------:|:-------------:|:----------:|
 | Calendário e critérios de aprovação | -                    | [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M0_0.pdf)|<img src="imagens/check.png" alt="img" width="40"/>|
 
-## Módulo 1 -- Fundamentos e Ambiente
+## Módulo 1 - Fundamentos e Ambiente de Desenvolvimento
 
 | Temas                        |        Jupyter Notebook     |  PDF          | Atualizado |
 |:-----------------------------|:---------------------------:|:-------------:|:----------:|
@@ -33,7 +33,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Prática dos conteúdos estudados: construindo e operando listas e strings | Exercícios | Jupyter/ Colab/Deepnote| <img src="imagens/check.png" alt="img" width="40"/>|
 
 
-## Módulo 2 -- Coleta, Numpy e Pandas
+## Módulo 2 - Coleta, Numpy e Pandas
 
 | Temas                                 |      Jupyter Notebook               |  PDF         | Atualizado |
 |:--------------------------------------|:-----------------------------------:|:------------:|:------------------:|
@@ -44,7 +44,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Prática dos conteúdos estudados: Processando e extraindo informações de arquivos csv, json, rdf|x|[<img src="imagens/pdf2.png" alt="pdf" width="25"/>]('https://github.com/zavaleta/Fundamentos_DS')| <img src="imagens/check.png" alt="img" width="40"/>|
 
 
-## Módulo 3 -- Análise e Visualização
+## Módulo 3 - Análise e Visualização
 
 | Temas                                 |      Teoria                         |  Prática     | Atualizado|
 |:--------------------------------------|:-----------------------------------:|:------------:|:---------:|
@@ -54,7 +54,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Prática dos conteúdos estudados: manipulando dados de saúde, ambiente, agricultura, cidades inteligentes | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |x|<img src="imagens/check.png" alt="img" width="40"/> |
 
 
-## Módulo 4 -- Machine Learning
+## Módulo 4 - Machine Learning
 
 |      Temas                            |      Teoria                         |  Prática     | Atualizado |
 |:--------------------------------------|:-----------------------------------:|:------------:|:----------:|
@@ -63,7 +63,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Scikitlearn:  introdução a mecanismos de regressão, classificação, clustering e PCA |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_1_Machine_learning.pdf) |  [Machine Learning](FCD_M4_1_Machine_Learning.ipynb)| <img src="imagens/check.png" alt="img" width="40"/> |
 | Prática dos conteúdos estudados: clusterização e predição |[<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/FCD_M4_2_Deep_Learning.pdf) | [Deep Learning](FCD_M4_2_Deep_Learning.ipynb)|<img src="imagens/check.png" alt="img" width="40"/>   |
 
-## Módulo 5 -- Lógica Fuzzy, Seminários e Projetos
+## Módulo 5 - Lógica Fuzzy, Seminários e Projetos
 
 | Temas                                 |      Teoria                         |  Prática     | Atualizado |
 |:--------------------------------------|:-----------------------------------:|:------------:|:----------:|
@@ -87,12 +87,12 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 <summary><strong>Avaliação</strong></summary>
 
 Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em participação em:
-<ol>
+<ul>
 <li>P - Avaliação em Sala de Aula.</li>
 <li>E - Exercícios e/ou protótipos desenvolvidos.</li>
 <li>A - Apresentações/ /escritas de artigos.
 </li>
-</ol>
+</ul>
 sala de aula (P); exercícios e/ou protótipos desenvolvidos (E); apresentações/ /escritas de artigos (A).
 
 </details>
