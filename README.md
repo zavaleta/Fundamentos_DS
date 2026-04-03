@@ -71,18 +71,38 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 | Apresentação de trabalhos – proposta de artigos| [<img src="imagens/pdf2.png" alt="pdf" width="25"/>]() |[]() |[]()|
 
 ## Material Adicional:
+
+<details>
+<summary><strong>Material Adicional</strong></summary>
+
 1. Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions Fabien C. Y. Benureau and Nicolas P. Rougier. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full)
 2. Provenance and the Different Flavors of Computational Reproducibility J. Freire and F. Chirigati In IEEE Data Engineering Bulletin, 41(1), pp. 15-26, 201. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](http://sites.computer.org/debull/A18mar/p15.pdf)
 3. Web Semântica: Uma introdução. [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/TESI_Adiciona_Web_semantica.pdf)
 
+</details>
+
 ## Avaliação
 
-Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em participação em sala de aula (P); exercícios e/ou protótipos desenvolvidos (E); apresentações/ /escritas de artigos (A).
+<details>
+<summary><strong>Avaliação</strong></summary>
 
+Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em participação em:
+<ol>
+<li>P - Avaliação em Sala de Aula.</li>
+<li>E - Exercícios e/ou protótipos desenvolvidos.</li>
+<li>A - Apresentações/ /escritas de artigos.
+</li>
+</ol>
+sala de aula (P); exercícios e/ou protótipos desenvolvidos (E); apresentações/ /escritas de artigos (A).
+
+</details>
 
 
 ## Bibliografia
-**Básica**
+
+<details>
+<summary><strong>Básica</strong></summary>
+
 1. National Academies of Sciences, Engineering, andMedicine. Reproducibility and Replicability in Science. Washington, DC: The National Academies Press, 1st Edition, 2019.
 2. Victoria Stodden, Friedrich Leisch, Roger D. Peng, Implementing Reproducible Research, CRC Press, 1st Edition, 2014.
 3. Kleppmann, M., Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, O’Reilly, 2017.
@@ -95,8 +115,11 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 10. Fernando Amaral, Introdução à Ciência de dados: Mineração de dados e Big Data. Alta Books, 2016. ISBN:978-85-7608-934-6
 10. Artigos Selecionados
 
+</details>
 
-**Complementar**
+
+<details>
+<summary><strong>Complementar</strong></summary>
 
 11. Christopher Gandrud, Reproducible Research with R and R Studio (Chapman & Hall/CRC The R Series) 1st Edition
 12. Garret Christense, Jeremy Freese, Edward Miguel, Transparent and Reproducible Social Science Research, University of Californy Press, 1st edition, 2019
@@ -106,15 +129,32 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 16. Manohar Swamynathan, Mastering Machine Learning with Python in Six Steps. Apress, 2017.
 17. Michel Bowles, Machine Learning in Python®: Essential Techniques for Predictive Analysis. John Wiley & Sons, Inc. 2015.
 
+</details>
+
+---
+### Livro
+<details>
+<summary><strong>Livro</strong></summary>
+- ![<img src="imagens/banner_book.png" alt="Imagem ilustrativa gerada por NANOBANANA" width="150"/>]()
+- Fonte: Jorge Zavaleta. Imagem ilustrativa gerada por NANOBANANA tecnologia Google.
+<details>
+
+---
+
 ## Recursos Educacionais Adicionais
+
+<details>
+<summary><strong>Recursos Educacionais Adicionais</strong></summary>
 
 1. The Open Science Training - Handbook https://book.fosteropenscience.eu/en/01Introduction/
 2. Recursos indicados em sala de aula
 
-## Trabalhos da disciplina
+</details>
+
+## 📘 Trabalhos da disciplina
 
 <details>
-### <summary><strong>2020.3/2021.1</strong></summary>
+<summary><strong>2020.3/2021.1</strong></summary>
 
 1. **Os impactos das fake-news na população mundial**. Autores: Monica Novellino, Sírius Da silva, Vinicius Da Silva,2020. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/ppgi-ufrj-data-science/FakeNews)
 2. **O uso das Redes Sociais Digitais e as Eleções para o Cargo de Prefeito do Rio de Janeiro**. Autores: Ana Paula Vasconcelos, Jivago Medeiros, Rafael Escalfoni, Silas Filho, Sírius Da Silva,2020. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/FundamentosDataScienceEleicoesRJ2020/Sandbox)
@@ -122,7 +162,7 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 </details>
 
 <details>
-### <summary><strong>2022.2</strong></summary>
+<summary><strong>2022.2</strong></summary>
 
 1. **Scientific Recommender**. Aurores: Ingrid Pacheco, Eduardo Prata e Renan Parreira. 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/ingridpacheco/Scientific-Recommender)
 2. **drecvm**. Autores: Valquire, Saulo Almeida, Gilberto Gil, 2022. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/OBInvest/drecvm)
@@ -134,7 +174,7 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 </details>
 
 <details>
-### <summary><strong>2024.2</strong></summary>
+<summary><strong>2024.2</strong></summary>
 
 1. Análise Comparativa de Dados de Segurança Pública no Brasil: Uma Abordagem Estatística e Visual. Autor: Emerson Duarte, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/emersonbd/DatasetSP)
 2. Decifrando Dados linguísticos: Análise comparativa dos lematizadores para língua portugues. Autor: Mariana Gonçalves da Costa, 2024. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/MarianaGCosta/Processamento-de-dados-em-portugues-brasileiro)
@@ -148,7 +188,7 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 
 
 <details>
-### <summary><strong style="color: #008B5B;"> 📗 2025.2</strong></summary>
+<summary><strong>2025.2</strong></summary>
 
 1. Analise dos aspectos de Títulos e conteúdos que influenciam a atratividade de Vídeos educacionais de matemática no Youtube no contexto Brasileiro. Autor: Tiago César Cunha da Costa, 2025. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/cesartiago/Analise-de-aspectos-de-videos-educacionais-de-matematica-no-YouTube-no-contexto-brasileiro)
 2. Construção de dataset dos fatores da produção da leite entre as regiões do Brasil. Autor: Max Felipe S. S. Cravo, 2025. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/Maxcravo/fund_data_science_repo/)
@@ -157,6 +197,11 @@ Critérios de aprovação são os do PPGI/UFRJ. A avaliação consiste em partic
 5. SINalise Ferramenta para análise preditiva de falhas em transformadores de frequência e potência do Sistema Interligado Nacional. Autor: Digão. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/Rrg331/Sinalize)
 6. AnalyticalChemistryLake - Método para acessar, estruturar e armazenar dados analíticos a partir de técnicas de cromatografia. Autor: Luiz Eduardo D. Paiva. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/luizeduardo29/AnalyticalChemistryLake)
 
+</details>
+
+<details>
+<summary><strong>2026.1</strong></summary>
+1. Em andamento.
 </details>
 
 ---
