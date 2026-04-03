@@ -14,7 +14,7 @@ Introdução a reprodutibilidade em pesquisa, proveniência de dados e gestão d
 
 # Módulos do curso
 
-## Módulo 0: Calendaárioe Critérios de Aprovação
+## Módulo 0: Calendaário e Critérios de Aprovação
 
 | Temas                        |        Jupyter Notebook     |  PDF          | Atualizado |
 |:-----------------------------|:---------------------------:|:-------------:|:----------:|
