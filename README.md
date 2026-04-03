@@ -135,8 +135,12 @@ sala de aula (P); exercícios e/ou protótipos desenvolvidos (E); apresentaçõe
 ### Livro
 <details>
 <summary><strong>Livro</strong></summary>
+
 <img src="imagens/banner_book.png" alt="Imagem ilustrativa gerada por NANOBANANA" width="300"/>
-<details>
+
+<img src="imagens/banner_book.png" alt="Imagem ilustrativa gerada por NANOBANANA" width="600"/>
+
+</details>
 
 ---
 
