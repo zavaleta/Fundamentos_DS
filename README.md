@@ -204,6 +204,7 @@ sala de aula (P); exercícios e/ou protótipos desenvolvidos (E); apresentaçõe
 
 <details>
 <summary><strong>2026.1</strong></summary>
+
 1. MyGlico: Diário glicêmico inteligente e rastreável para análise de glicemia capilar. Autor: Felipe Rodrigues Calé. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/cale-minds/myglico)<br>
  2. Prediction of Residential Energy Consumption Using Machine Learning. Autor: Pedro Jorge Oliveira Câmara. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/pedro-jorge/EIA_ML.git)<br>
  3. O mapeamento de Nitossolos no Brasil com o uso de Machine Learning. Autor: Caroline S. Oliveira. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/olivenbaum-dev/PPGI_UFRJ_DataScience)<br>
@@ -211,6 +212,7 @@ sala de aula (P); exercícios e/ou protótipos desenvolvidos (E); apresentaçõe
  5. y<br>
  6. x<br>
  7. x<br>
+
 </details>
 
 ---
