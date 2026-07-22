@@ -209,8 +209,8 @@ sala de aula (P); exercícios e/ou protótipos desenvolvidos (E); apresentaçõe
  2. Prediction of Residential Energy Consumption Using Machine Learning. Autor: Pedro Jorge Oliveira Câmara. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/pedro-jorge/EIA_ML.git)<br>
  3. O mapeamento de Nitossolos no Brasil com o uso de Machine Learning. Autor: Caroline S. Oliveira. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/olivenbaum-dev/PPGI_UFRJ_DataScience)<br>
  4. Separabilidade Linear de Verbos Psicológicos no XLM-RoBERTa-base. Autor: Josué David Praciano. [<img src="imagens/github.png" alt="github" width="20"/>]( https://github.com/Josue-Praciano/verbos-psicologicos-separabilidade-linear)<br>
- 5. y<br>
- 6. x<br>
+ 5. SteamRR: Recomendador Semântico de Jogos da Steam. Autor: Mauricio L. Miranda. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/mauriciolmiran/SteamRR)<br>
+ 6. GreenRisk: Explainable Greenwashing-Risk Scoring for Corporate Climate Disclosures. Autor: Isaac D'Césares. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/idcesares/GreenRisk)<br>
  7. x<br>
 
 </details>
