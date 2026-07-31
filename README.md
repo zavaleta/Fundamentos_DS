@@ -213,6 +213,7 @@ sala de aula (P); exercícios e/ou protótipos desenvolvidos (E); apresentaçõe
  6. GreenRisk: Explainable Greenwashing-Risk Scoring for Corporate Climate Disclosures. Autor: Isaac D'Césares. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/idcesares/GreenRisk)<br>
  7. Classificação temática de proposições legislativas brasileiras:Um pipeline Reprodutível com proveniência dede dados. Autor: Gustavo Martins Ferreira de Aquino. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/gustavo-mfa/thematic_classification_brazilian_legislation)<br>
  8. CoInfoSim: A Simulator for Predictive Cooperation Across Attribute Subsets. Autor: Paulo Renato Azevedo. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/paulorenatoaz/coinfosim)<br>
+ 9. Analise Multidimensional sobre Financiamento Público da Educação e Desempenho Escolar na Baixada Fluminense. Autores: Vitória M. C. Chaves, Alekssander Santos. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/mendesv1t/analise-investimento-enem-sisu-baixada-fluminense)<br>
 
 </details>
 
