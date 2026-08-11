@@ -216,6 +216,8 @@ sala de aula (P); exercícios e/ou protótipos desenvolvidos (E); apresentaçõe
  9. Analise Multidimensional sobre Financiamento Público da Educação e Desempenho Escolar na Baixada Fluminense. Autores: Vitória M. C. Chaves, Alekssander Santos. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/mendesv1t/analise-investimento-enem-sisu-baixada-fluminense)<br>
  10. Pipeline Multimodal para Prognóstico de Lesão Medular com Inteligência Artificial: Uma Arquitetura Baseada em Visão Computacional e Dados Clínicos. Autor: Roberlan Oliveira de Carvalho [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/roberlancarvalho/lesao-medular-poc)<br>
  11. Uso de diferentes bases de dados e climatolgia na classificação do fenômeno El Niño-Oscilação Sul: Uma discussão baseada nos princípios fundamentais das ciências de dados. Autora: Alessandra Carbonel. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/alessandracarbonel/fundamentosds/)<br>
+ 12. Desigualdade Educacional no ENEM: quais fatores socioeconômicos mais impactam o desempenho do estudante?. Autora: Carla Moreno. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/carlamoreeno/Project-Data-Science)<br>
+ 13. Avaliação  Multidimensional da adequação Metodológica da Produção Científica em Computação: Construção do IAM-PC e integração institucional com dados da CAPES. Autor: Evandro Claro Freire. [<img src="imagens/github.png" alt="github" width="20"/>](https://github.com/evandroclaro/Resear04_fundamentos_CAPES_artigos)<br>
 
 </details>
 
